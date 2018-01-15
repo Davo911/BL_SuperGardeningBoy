@@ -6,7 +6,7 @@ public class Splatter : MonoBehaviour
 {
     public List<Sprite> sprites; //ref to the sprites which will be used by sprites renderer
     [HideInInspector]
-    public bool randomColor = true; //set to false when the target gives the color
+    public bool randomColor = false; //set to false when the target gives the color
     [HideInInspector]
     public Color32 splatColor; //color values which can be assigned by another script
     private SpriteRenderer spriteRenderer;//ref to sprite renderer component
@@ -37,6 +37,6 @@ public class Splatter : MonoBehaviour
         {//when the other script has power to assign the color , this code is used
             spriteRenderer.color = splatColor;
         }
-        transform.rotation = Quaternion.Euler(0, 0, Random.Range(0, 360));
+        //transform.rotation = Quaternion.Euler(0, 0, Random.Range(0, 360));
     }
 }
