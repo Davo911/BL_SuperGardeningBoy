@@ -6,7 +6,8 @@ public class PlayerController : MonoBehaviour {
 
     public Splatter splatter;
     public float maxSpeed = 4;
-    public float jumpForce = 550;
+    public float jumpForcemax= 3f;
+	public float jumpForcemin = 6f;
     public Transform groundCheck;
     public LayerMask whatIsGround;
 
@@ -17,6 +18,7 @@ public class PlayerController : MonoBehaviour {
     private Animator anim;
     private bool isGrounded = false;
     private bool jump = false;
+	private bool jumpStop = false;
     private bool moving = false;
 
 	// Use this for initialization
@@ -28,8 +30,13 @@ public class PlayerController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if (Input.GetButtonDown("Jump") && isGrounded)
-            jump = true;
+		
+		isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.15f, whatIsGround);
+		if (Input.GetButtonDown("Jump") && isGrounded)
+			jump = true;
+		if (Input.GetButtonUp("Jump") && !isGrounded)
+			jumpStop = true;
+
 	}
 
     //fixed Timestep
@@ -48,17 +55,28 @@ public class PlayerController : MonoBehaviour {
         }
         rb2d.velocity = new Vector2(hor * maxSpeed,rb2d.velocity.y);
 
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.15f, whatIsGround);
+
         anim.SetBool("isGrounded", isGrounded);
 
         if ((hor > 0 && !lookingRight) || (hor < 0 && lookingRight))
             Flip();
 
+		/*
         if (jump)
         {
             rb2d.AddForce(new Vector2(0, jumpForce));
             jump = false;
-        }
+        }*/
+		if (jump) {
+			rb2d.velocity = new Vector2 (rb2d.velocity.x, jumpForcemax);
+			jump = false;
+		}
+		if (jumpStop) {
+			if (rb2d.velocity.y > jumpForcemin) {
+				rb2d.velocity = new Vector2 (rb2d.velocity.x, jumpForcemin);
+			}
+			jumpStop = false;
+		}
     }
 
     public void Flip()
