@@ -19,7 +19,8 @@ public class Splatter : MonoBehaviour
     private void Start()
     {
         //at start we randomly select the sprites
-        spriteRenderer.sprite = sprites[Random.Range(0, sprites.Count)];
+        spriteRenderer.sprite = sprites[0];
+        //spriteRenderer.sprite = sprites[Random.Range(0, sprites.Count)];
         //checks if randomColor is true and then randomly apply the colors
         if (randomColor)
         {
@@ -31,12 +32,13 @@ public class Splatter : MonoBehaviour
     {
         if (randomColor == true)
         {
-            spriteRenderer.color = new Color(Random.Range(0, 1f), Random.Range(0, 1f), Random.Range(0, 1f));
+            //spriteRenderer.color = new Color(Random.Range(0, 1f), Random.Range(0, 1f), Random.Range(0, 1f));
+            spriteRenderer.color = new Color(1,1,1);
         }
         else
         {//when the other script has power to assign the color , this code is used
             spriteRenderer.color = splatColor;
         }
-        //transform.rotation = Quaternion.Euler(0, 0, Random.Range(0, 360));
+
     }
 }

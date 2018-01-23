@@ -11,9 +11,11 @@ public class PlayerController : MonoBehaviour {
     public Transform groundCheck;
     public LayerMask whatIsGround;
 
+
     [HideInInspector]
     public bool lookingRight = true;
 
+    private ParticleSystem particles;
     private Rigidbody2D rb2d;
     private Animator anim;
     private bool isGrounded = false;
@@ -26,7 +28,9 @@ public class PlayerController : MonoBehaviour {
         //Zuweisung der Components
         rb2d = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
-	}
+        particles = GetComponent<ParticleSystem>();
+
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -54,7 +58,6 @@ public class PlayerController : MonoBehaviour {
             moving = false;
         }
         rb2d.velocity = new Vector2(hor * maxSpeed,rb2d.velocity.y);
-
 
         anim.SetBool("isGrounded", isGrounded);
 
@@ -89,9 +92,21 @@ public class PlayerController : MonoBehaviour {
 
     void OnTriggerEnter2D(Collider2D other)
     {
+        Vector3 temp = new Vector3(other.transform.position.x, other.transform.position.y, other.transform.position.z);
         if (other.CompareTag("Surface"))
         {
-           Instantiate(splatter, other.transform.position, Quaternion.identity);
+           temp.y+=0.2f;
+           Instantiate(splatter, temp, Quaternion.Euler(0, 0, 0));
+        }
+        if (other.CompareTag("WallLeft"))
+        {
+            temp.x += 0.2f;
+            Instantiate(splatter, temp, Quaternion.Euler(0, 0, -90));
+        }
+        if (other.CompareTag("WallRight"))
+        {
+            temp.x -= 0.2f;
+            Instantiate(splatter, temp, Quaternion.Euler(0, 0, 90));
         }
     }
 }
