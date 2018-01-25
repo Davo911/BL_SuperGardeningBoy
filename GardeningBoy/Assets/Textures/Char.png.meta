@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 3f6a9fafd6122fd4da44af4555ed81c5
-timeCreated: 1514462299
+timeCreated: 1516890550
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -10,7 +10,12 @@ TextureImporter:
     21300006: Food_right
     21300008: Arm
     21300010: Food_left
-  externalObjects: {}
+    21300012: Char_0
+    21300014: Char_1
+    21300016: Char_2
+    21300018: Char_3
+    21300020: Char_4
+    21300022: Char_5
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -19,8 +24,6 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
-    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -36,13 +39,10 @@ TextureImporter:
   textureFormat: 1
   maxTextureSize: 2048
   textureSettings:
-    serializedVersion: 2
     filterMode: -1
     aniso: -1
     mipBias: -1
-    wrapU: 1
-    wrapV: 1
-    wrapW: 1
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -64,7 +64,6 @@ TextureImporter:
   platformSettings:
   - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -73,7 +72,6 @@ TextureImporter:
     overridden: 0
   - buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -82,7 +80,6 @@ TextureImporter:
     overridden: 0
   - buildTarget: Android
     maxTextureSize: 2048
-    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -93,7 +90,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Deco_flower
+      name: Char_0
       rect:
         serializedVersion: 2
         x: 9
@@ -104,13 +101,25 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Body
+      name: Char_1
       rect:
         serializedVersion: 2
-        x: 90
+        x: 65
+        y: 88
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Char_2
+      rect:
+        serializedVersion: 2
+        x: 102
         y: 23
         width: 108
         height: 86
@@ -118,27 +127,25 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: eye
+      name: Char_3
       rect:
         serializedVersion: 2
-        x: 18
-        y: 44
-        width: 25
-        height: 25
+        x: 13
+        y: 22
+        width: 50
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Food_right
+      name: Char_4
       rect:
         serializedVersion: 2
-        x: 56
+        x: 68
         y: 46
         width: 21
         height: 21
@@ -146,38 +153,21 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Arm
+      name: Char_5
       rect:
         serializedVersion: 2
-        x: 15
-        y: 7
-        width: 29
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Food_left
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 9
+        x: 68
+        y: 10
         width: 21
         height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
       tessellationDetail: 0
     outline: []
-    physicsShape: []
   spritePackingTag: 
   userData: 
   assetBundleName: 
