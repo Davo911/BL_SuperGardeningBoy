@@ -4,13 +4,16 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour {
 
+    public GameObject plant;
     public Splatter splatter;
     public float maxSpeed = 4;
     public float jumpForcemax= 3f;
 	public float jumpForcemin = 6f;
+    public float jumpPushForce = 10f;
     public Transform groundCheck;
+    public float distance = 1f;
     public LayerMask whatIsGround;
-
+    public LayerMask whatIsWall;
 
     [HideInInspector]
     public bool lookingRight = true;
@@ -19,6 +22,7 @@ public class PlayerController : MonoBehaviour {
     private Rigidbody2D rb2d;
     private Animator anim;
     private bool isGrounded = false;
+    private bool touchingWall = false;
     private bool jump = false;
 	private bool jumpStop = false;
     private bool moving = false;
@@ -34,13 +38,22 @@ public class PlayerController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+		Physics2D.queriesStartInColliders = false;
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.right * transform.localScale.x, distance);
+
+
 		isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.15f, whatIsGround);
+
 		if (Input.GetButtonDown("Jump") && isGrounded)
 			jump = true;
 		if (Input.GetButtonUp("Jump") && !isGrounded)
-			jumpStop = true;
+			//jumpStop = true;
 
+        //WALLJUMP
+        if (Input.GetButtonDown("Jump") && !hit.collider && !isGrounded)
+        {
+            rb2d.AddForce(new Vector2(jumpPushForce, jumpForcemin));
+        }
 	}
 
     //fixed Timestep
@@ -90,6 +103,8 @@ public class PlayerController : MonoBehaviour {
         transform.localScale = myScale;
     }
 
+
+
     void OnTriggerEnter2D(Collider2D other)
     {
         Vector3 temp = new Vector3(other.transform.position.x, other.transform.position.y, other.transform.position.z);
@@ -97,6 +112,7 @@ public class PlayerController : MonoBehaviour {
         {
            temp.y+=0.2f;
            Instantiate(splatter, temp, Quaternion.Euler(0, 0, 0));
+           Instantiate(plant,temp,Quaternion.Euler(0, 0, 0));
         }
         if (other.CompareTag("WallLeft"))
         {
@@ -108,5 +124,13 @@ public class PlayerController : MonoBehaviour {
             temp.x -= 0.2f;
             Instantiate(splatter, temp, Quaternion.Euler(0, 0, 90));
         }
+    }
+
+    void OnDrawGizmos()
+    {
+        Gizmos.color = Color.red;
+
+        Gizmos.DrawLine(transform.position, transform.position + Vector3.right * transform.localScale.x * distance);
+
     }
 }
