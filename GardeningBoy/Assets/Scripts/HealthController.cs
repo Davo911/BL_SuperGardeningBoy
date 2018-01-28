@@ -11,10 +11,16 @@ public class HealthController : MonoBehaviour {
     Animator anim;
     PlayerController playerController;
     bool isDead = false;
-	// Use this for initialization
-	void Start () {
+
+    public int nextLevelIndex;          //The next scene index;
+    private int levelIndex;             //This scene index
+
+    // Use this for initialization
+    void Start () {
         anim = GetComponent<Animator>();
         playerController = GetComponent<PlayerController>();
+
+        levelIndex = Application.loadedLevel;	//Getting current level index for saving needs;
 
         //erste Szene für den Ctrinoller-Einsatz(Anpassen falls menü oder so)
         if (Application.loadedLevel == 0)
@@ -43,6 +49,17 @@ public class HealthController : MonoBehaviour {
 
             }
     }
+    }
+
+    void levelDone()
+    {
+            Data.SaveData(levelIndex, true, 3);
+            LoadNextLevel();
+    }
+
+    void LoadNextLevel()
+    {
+        Application.LoadLevel(nextLevelIndex);
     }
 
     void Dying()
