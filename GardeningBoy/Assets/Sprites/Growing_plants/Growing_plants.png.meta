@@ -1,0 +1,5086 @@
+fileFormatVersion: 2
+guid: f11db1f645793f542a2765cbe6d23230
+timeCreated: 1517071292
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Growing_plants_0
+    21300002: Growing_plants_1
+    21300004: Growing_plants_2
+    21300006: Growing_plants_3
+    21300008: Growing_plants_4
+    21300010: Growing_plants_5
+    21300012: Growing_plants_6
+    21300014: Growing_plants_7
+    21300016: Growing_plants_8
+    21300018: Growing_plants_9
+    21300020: Growing_plants_10
+    21300022: Growing_plants_11
+    21300024: Growing_plants_12
+    21300026: Growing_plants_13
+    21300028: Growing_plants_14
+    21300030: Growing_plants_15
+    21300032: Growing_plants_16
+    21300034: Growing_plants_17
+    21300036: Growing_plants_18
+    21300038: Growing_plants_19
+    21300040: Growing_plants_20
+    21300042: Growing_plants_21
+    21300044: Growing_plants_22
+    21300046: Growing_plants_23
+    21300048: Growing_plants_24
+    21300050: Growing_plants_25
+    21300052: Growing_plants_26
+    21300054: Growing_plants_27
+    21300056: Growing_plants_28
+    21300058: Growing_plants_29
+    21300060: Growing_plants_30
+    21300062: Growing_plants_31
+    21300064: Growing_plants_32
+    21300066: Growing_plants_33
+    21300068: Growing_plants_34
+    21300070: Growing_plants_35
+    21300072: Growing_plants_36
+    21300074: Growing_plants_37
+    21300076: Growing_plants_38
+    21300078: Growing_plants_39
+    21300080: Growing_plants_40
+    21300082: Growing_plants_41
+    21300084: Growing_plants_42
+    21300086: Growing_plants_43
+    21300088: Growing_plants_44
+    21300090: Growing_plants_45
+    21300092: Growing_plants_46
+    21300094: Growing_plants_47
+    21300096: Growing_plants_48
+    21300098: Growing_plants_49
+    21300100: Growing_plants_50
+    21300102: Growing_plants_51
+    21300104: Growing_plants_52
+    21300106: Growing_plants_53
+    21300108: Growing_plants_54
+    21300110: Growing_plants_55
+    21300112: Growing_plants_56
+    21300114: Growing_plants_57
+    21300116: Growing_plants_58
+    21300118: Growing_plants_59
+    21300120: Growing_plants_60
+    21300122: Growing_plants_61
+    21300124: Growing_plants_62
+    21300126: Growing_plants_63
+    21300128: Growing_plants_64
+    21300130: Growing_plants_65
+    21300132: Growing_plants_66
+    21300134: Growing_plants_67
+    21300136: Growing_plants_68
+    21300138: Growing_plants_69
+    21300140: Growing_plants_70
+    21300142: Growing_plants_71
+    21300144: Growing_plants_72
+    21300146: Growing_plants_73
+    21300148: Growing_plants_74
+    21300150: Growing_plants_75
+    21300152: Growing_plants_76
+    21300154: Growing_plants_77
+    21300156: Growing_plants_78
+    21300158: Growing_plants_79
+    21300160: Growing_plants_80
+    21300162: Growing_plants_81
+    21300164: Growing_plants_82
+    21300166: Growing_plants_83
+    21300168: Growing_plants_84
+    21300170: Growing_plants_85
+    21300172: Growing_plants_86
+    21300174: Growing_plants_87
+    21300176: Growing_plants_88
+    21300178: Growing_plants_89
+    21300180: Growing_plants_90
+    21300182: Growing_plants_91
+    21300184: Growing_plants_92
+    21300186: Growing_plants_93
+    21300188: Growing_plants_94
+    21300190: Growing_plants_95
+    21300192: Growing_plants_96
+    21300194: Growing_plants_97
+    21300196: Growing_plants_98
+    21300198: Growing_plants_99
+    21300200: Growing_plants_100
+    21300202: Growing_plants_101
+    21300204: Growing_plants_102
+    21300206: Growing_plants_103
+    21300208: Growing_plants_104
+    21300210: Growing_plants_105
+    21300212: Growing_plants_106
+    21300214: Growing_plants_107
+    21300216: Growing_plants_108
+    21300218: Growing_plants_109
+    21300220: Growing_plants_110
+    21300222: Growing_plants_111
+    21300224: Growing_plants_112
+    21300226: Growing_plants_113
+    21300228: Growing_plants_114
+    21300230: Growing_plants_115
+    21300232: Growing_plants_116
+    21300234: Growing_plants_117
+    21300236: Growing_plants_118
+    21300238: Growing_plants_119
+    21300240: Growing_plants_120
+    21300242: Growing_plants_121
+    21300244: Growing_plants_122
+    21300246: Growing_plants_123
+    21300248: Growing_plants_124
+    21300250: Growing_plants_125
+    21300252: Growing_plants_126
+    21300254: Growing_plants_127
+    21300256: Growing_plants_128
+    21300258: Growing_plants_129
+    21300260: Growing_plants_130
+    21300262: Growing_plants_131
+    21300264: Growing_plants_132
+    21300266: Growing_plants_133
+    21300268: Growing_plants_134
+    21300270: Growing_plants_135
+    21300272: Growing_plants_136
+    21300274: Growing_plants_137
+    21300276: Growing_plants_138
+    21300278: Growing_plants_139
+    21300280: Growing_plants_140
+    21300282: Growing_plants_141
+    21300284: Growing_plants_142
+    21300286: Growing_plants_143
+    21300288: Growing_plants_144
+    21300290: Growing_plants_145
+    21300292: Growing_plants_146
+    21300294: Growing_plants_147
+    21300296: Growing_plants_148
+    21300298: Growing_plants_149
+    21300300: Growing_plants_150
+    21300302: Growing_plants_151
+    21300304: Growing_plants_152
+    21300306: Growing_plants_153
+    21300308: Growing_plants_154
+    21300310: Growing_plants_155
+    21300312: Growing_plants_156
+    21300314: Growing_plants_157
+    21300316: Growing_plants_158
+    21300318: Growing_plants_159
+    21300320: Growing_plants_160
+    21300322: Growing_plants_161
+    21300324: Growing_plants_162
+    21300326: Growing_plants_163
+    21300328: Growing_plants_164
+    21300330: Growing_plants_165
+    21300332: Growing_plants_166
+    21300334: Growing_plants_167
+    21300336: Growing_plants_168
+    21300338: Growing_plants_169
+    21300340: Growing_plants_170
+    21300342: Growing_plants_171
+    21300344: Growing_plants_172
+    21300346: Growing_plants_173
+    21300348: Growing_plants_174
+    21300350: Growing_plants_175
+    21300352: Growing_plants_176
+    21300354: Growing_plants_177
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Growing_plants_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 456
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 458
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 457
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 456
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 456
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 456
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 457
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 457
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 456
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 456
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 456
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 425
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 427
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 426
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 426
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 424
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 424
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 422
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 425
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 426
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_20
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 426
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_21
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 425
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_22
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 425
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 424
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 394
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 394
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 393
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 393
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_28
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 393
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 393
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 394
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 392
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_32
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 392
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 394
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_34
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 362
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_35
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 362
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_36
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 362
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_37
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 362
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 362
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 362
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_40
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 362
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 361
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_42
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 359
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_43
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 359
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_44
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 359
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_45
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 359
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_46
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 329
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_47
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 329
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_48
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 329
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_49
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 328
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_50
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 328
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_51
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 329
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_52
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 329
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_53
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 329
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_54
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 329
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_55
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 329
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_56
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 296
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_57
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 294
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_58
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 293
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 294
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_60
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 303
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_61
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 304
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_62
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 303
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_63
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 303
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_64
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 303
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_65
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 303
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_66
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 304
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_67
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 265
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_68
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 266
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_69
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 265
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_70
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 265
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_71
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 265
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_72
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 264
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_73
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 266
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_74
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 264
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_75
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 262
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_76
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 261
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_77
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 262
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_78
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 234
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_79
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 233
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_80
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 233
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_81
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 232
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_82
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 232
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_83
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 232
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_84
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 237
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_85
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 239
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_86
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 233
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_87
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 232
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_88
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 232
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_89
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 232
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_90
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 231
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_91
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 233
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_92
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 231
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_93
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 234
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_94
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 203
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_95
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 203
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_96
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 203
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 203
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_98
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 203
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_99
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 198
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_100
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 201
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_101
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 201
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_102
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 201
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_103
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 200
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_104
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 200
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_105
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 170
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_106
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 171
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_107
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 171
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_108
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 171
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_109
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 171
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_110
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 169
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_111
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 170
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_112
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 170
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_113
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 169
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_114
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 169
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_115
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 170
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_116
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 167
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_117
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 142
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_118
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_119
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 138
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_120
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 138
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_121
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 138
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_122
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 141
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_123
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 138
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_124
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 136
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_125
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 136
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_126
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_127
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 136
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_128
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 137
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_129
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 137
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_130
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 136
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_131
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 104
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_132
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 106
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_133
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 103
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_134
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 103
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_135
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 107
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_136
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 105
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_137
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 105
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_138
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 106
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_139
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 105
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_140
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 106
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_141
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 103
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_142
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_143
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 73
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_144
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_145
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 73
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_146
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 73
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_147
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 73
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_148
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_149
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 69
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_150
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 69
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_151
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 68
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_152
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 68
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_153
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 43
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_154
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 42
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_155
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 42
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_156
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 42
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_157
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 42
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_158
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_159
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 45
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_160
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 43
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_161
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 43
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_162
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 42
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 41
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_164
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 41
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_165
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 41
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_166
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 40
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_167
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 12
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_168
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 8
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_169
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_170
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 10
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_171
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 10
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_172
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 10
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_173
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 8
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_174
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 10
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_175
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 10
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_176
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 10
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Growing_plants_177
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 10
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -155, y: -223.5}
+      - {x: -159, y: -226.5}
+      - {x: -159, y: -230.5}
+      - {x: -156, y: -235.5}
+      - {x: -154, y: -236.5}
+      - {x: -150, y: -236.5}
+      - {x: -146, y: -234.5}
+      - {x: -146, y: -224.5}
+      - {x: -148, y: -223.5}
+    - - {x: -136, y: -225.5}
+      - {x: -140, y: -227.5}
+      - {x: -140, y: -231.5}
+      - {x: -137, y: -234.5}
+      - {x: -132, y: -234.5}
+      - {x: -132, y: -226.5}
+      - {x: -133, y: -225.5}
+    - - {x: -125, y: -223.5}
+      - {x: -127, y: -225.5}
+      - {x: -127, y: -229.5}
+      - {x: -123, y: -234.5}
+      - {x: -117, y: -234.5}
+      - {x: -112, y: -230.5}
+      - {x: -112, y: -226.5}
+      - {x: -113, y: -223.5}
+    - - {x: -112, y: -224.5}
+      - {x: -111, y: -230.5}
+      - {x: -109, y: -234.5}
+      - {x: -100, y: -234.5}
+      - {x: -96, y: -232.5}
+      - {x: -96, y: -216.5}
+      - {x: -98, y: -215.5}
+      - {x: -104, y: -215.5}
+      - {x: -112, y: -222.5}
+    - - {x: -90, y: -216.5}
+      - {x: -95, y: -218.5}
+      - {x: -95, y: -231.5}
+      - {x: -91, y: -234.5}
+      - {x: -82, y: -234.5}
+      - {x: -79, y: -228.5}
+      - {x: -79, y: -219.5}
+      - {x: -81, y: -216.5}
+    - - {x: 29, y: -208.5}
+      - {x: 29, y: -232.5}
+      - {x: 110, y: -232.5}
+      - {x: 110, y: -212.5}
+      - {x: 108, y: -208.5}
+    - - {x: 16, y: -221.5}
+      - {x: 15, y: -224.5}
+      - {x: 15, y: -229.5}
+      - {x: 16, y: -230.5}
+      - {x: 22, y: -230.5}
+      - {x: 25, y: -229.5}
+      - {x: 26, y: -224.5}
+      - {x: 24, y: -220.5}
+      - {x: 20, y: -219.5}
+    - - {x: 12, y: -201.5}
+      - {x: 12, y: -203.5}
+      - {x: 13, y: -206.5}
+      - {x: 23, y: -206.5}
+      - {x: 27, y: -205.5}
+      - {x: 27, y: -202.5}
+      - {x: 21, y: -196.5}
+      - {x: 19, y: -196.5}
+    - - {x: 36, y: -196.5}
+      - {x: 31, y: -201.5}
+      - {x: 31, y: -202.5}
+      - {x: 34, y: -205.5}
+      - {x: 37, y: -205.5}
+      - {x: 40, y: -202.5}
+      - {x: 40, y: -199.5}
+      - {x: 37, y: -196.5}
+    - - {x: 55, y: -189.5}
+      - {x: 51, y: -189.5}
+      - {x: 45, y: -192.5}
+      - {x: 45, y: -203.5}
+      - {x: 49, y: -205.5}
+      - {x: 57, y: -205.5}
+      - {x: 60, y: -201.5}
+      - {x: 60, y: -195.5}
+    - - {x: 88, y: -205.5}
+      - {x: 91, y: -202.5}
+      - {x: 92, y: -199.5}
+      - {x: 92, y: -195.5}
+      - {x: 93, y: -192.5}
+      - {x: 93, y: -189.5}
+      - {x: 96, y: -192.5}
+      - {x: 92, y: -194.5}
+      - {x: 92, y: -204.5}
+      - {x: 94, y: -205.5}
+      - {x: 109, y: -205.5}
+      - {x: 109, y: -177.5}
+      - {x: 60, y: -177.5}
+      - {x: 60, y: -205.5}
+      - {x: 72, y: -205.5}
+      - {x: 77, y: -204.5}
+      - {x: 75, y: -204.5}
+      - {x: 81, y: -205.5}
+    - - {x: -134, y: -193.5}
+      - {x: -138, y: -193.5}
+      - {x: -139, y: -195.5}
+      - {x: -140, y: -199.5}
+      - {x: -137, y: -202.5}
+      - {x: -134, y: -202.5}
+      - {x: -132, y: -200.5}
+      - {x: -132, y: -194.5}
+    - - {x: -115, y: -191.5}
+      - {x: -125, y: -191.5}
+      - {x: -126, y: -192.5}
+      - {x: -126, y: -197.5}
+      - {x: -123, y: -202.5}
+      - {x: -117, y: -202.5}
+      - {x: -113, y: -198.5}
+      - {x: -113, y: -194.5}
+    - - {x: -110, y: -188.5}
+      - {x: -112, y: -189.5}
+      - {x: -112, y: -197.5}
+      - {x: -110, y: -202.5}
+      - {x: -99, y: -202.5}
+      - {x: -95, y: -201.5}
+      - {x: -95, y: -190.5}
+      - {x: -97, y: -188.5}
+    - - {x: -95, y: -201.5}
+      - {x: -94, y: -202.5}
+      - {x: -71, y: -202.5}
+      - {x: -63, y: -197.5}
+      - {x: -63, y: -177.5}
+      - {x: -76, y: -177.5}
+      - {x: -95, y: -185.5}
+    - - {x: -152, y: -193.5}
+      - {x: -157, y: -197.5}
+      - {x: -157, y: -200.5}
+      - {x: -154, y: -201.5}
+      - {x: -147, y: -201.5}
+      - {x: -146, y: -198.5}
+      - {x: -146, y: -196.5}
+      - {x: -150, y: -193.5}
+    - - {x: -62, y: -141.5}
+      - {x: -65, y: -142.5}
+      - {x: -64, y: -147.5}
+      - {x: -64, y: -155.5}
+      - {x: -64, y: -149.5}
+      - {x: -72, y: -141.5}
+      - {x: -103, y: -141.5}
+      - {x: -112, y: -144.5}
+      - {x: -112, y: -162.5}
+      - {x: -111, y: -170.5}
+      - {x: -106, y: -173.5}
+      - {x: -49, y: -173.5}
+      - {x: -48, y: -168.5}
+      - {x: -48, y: -143.5}
+      - {x: -52, y: -141.5}
+    - - {x: 18, y: -164.5}
+      - {x: 16, y: -166.5}
+      - {x: 16, y: -171.5}
+      - {x: 18, y: -173.5}
+      - {x: 21, y: -173.5}
+      - {x: 23, y: -171.5}
+      - {x: 24, y: -167.5}
+      - {x: 21, y: -164.5}
+    - - {x: 30, y: -163.5}
+      - {x: 29, y: -166.5}
+      - {x: 29, y: -170.5}
+      - {x: 34, y: -173.5}
+      - {x: 39, y: -173.5}
+      - {x: 42, y: -168.5}
+      - {x: 42, y: -164.5}
+      - {x: 39, y: -163.5}
+    - - {x: 53, y: -142.5}
+      - {x: 44, y: -154.5}
+      - {x: 44, y: -173.5}
+      - {x: 93, y: -173.5}
+      - {x: 93, y: -142.5}
+    - - {x: -116, y: -155.5}
+      - {x: -120, y: -155.5}
+      - {x: -124, y: -159.5}
+      - {x: -126, y: -164.5}
+      - {x: -126, y: -170.5}
+      - {x: -125, y: -172.5}
+      - {x: -117, y: -172.5}
+      - {x: -112, y: -165.5}
+      - {x: -112, y: -159.5}
+    - - {x: -137, y: -161.5}
+      - {x: -141, y: -163.5}
+      - {x: -141, y: -168.5}
+      - {x: -138, y: -171.5}
+      - {x: -136, y: -171.5}
+      - {x: -131, y: -168.5}
+      - {x: -131, y: -163.5}
+      - {x: -132, y: -161.5}
+    - - {x: -155, y: -160.5}
+      - {x: -156, y: -162.5}
+      - {x: -156, y: -167.5}
+      - {x: -154, y: -168.5}
+      - {x: -150, y: -168.5}
+      - {x: -148, y: -167.5}
+      - {x: -148, y: -160.5}
+    - - {x: 95, y: -148.5}
+      - {x: 93, y: -151.5}
+      - {x: 93, y: -164.5}
+      - {x: 96, y: -168.5}
+      - {x: 104, y: -168.5}
+      - {x: 109, y: -161.5}
+      - {x: 109, y: -151.5}
+      - {x: 104, y: -148.5}
+    - - {x: -79, y: -122.5}
+      - {x: -79, y: -135.5}
+      - {x: -72, y: -142.5}
+      - {x: -69, y: -142.5}
+      - {x: -62, y: -136.5}
+      - {x: -62, y: -122.5}
+    - - {x: -125, y: -125.5}
+      - {x: -127, y: -129.5}
+      - {x: -127, y: -135.5}
+      - {x: -118, y: -141.5}
+      - {x: -84, y: -141.5}
+      - {x: -80, y: -137.5}
+      - {x: -80, y: -126.5}
+      - {x: -83, y: -125.5}
+    - - {x: 11, y: -127.5}
+      - {x: 11, y: -136.5}
+      - {x: 18, y: -141.5}
+      - {x: 25, y: -141.5}
+      - {x: 26, y: -140.5}
+      - {x: 26, y: -131.5}
+      - {x: 24, y: -127.5}
+    - - {x: -156, y: -128.5}
+      - {x: -158, y: -130.5}
+      - {x: -158, y: -136.5}
+      - {x: -154, y: -140.5}
+      - {x: -146, y: -140.5}
+      - {x: -144, y: -137.5}
+      - {x: -144, y: -130.5}
+      - {x: -147, y: -128.5}
+    - - {x: 91, y: -126.5}
+      - {x: 90, y: -129.5}
+      - {x: 90, y: -137.5}
+      - {x: 93, y: -140.5}
+      - {x: 100, y: -140.5}
+      - {x: 107, y: -136.5}
+      - {x: 107, y: -128.5}
+      - {x: 106, y: -126.5}
+    - - {x: 40, y: -123.5}
+      - {x: 36, y: -123.5}
+      - {x: 26, y: -127.5}
+      - {x: 26, y: -137.5}
+      - {x: 29, y: -139.5}
+      - {x: 37, y: -139.5}
+      - {x: 42, y: -135.5}
+      - {x: 42, y: -124.5}
+    - - {x: 45, y: -126.5}
+      - {x: 43, y: -127.5}
+      - {x: 43, y: -134.5}
+      - {x: 44, y: -138.5}
+      - {x: 47, y: -139.5}
+      - {x: 55, y: -139.5}
+      - {x: 58, y: -138.5}
+      - {x: 58, y: -126.5}
+    - - {x: 86, y: -127.5}
+      - {x: 85, y: -126.5}
+      - {x: 78, y: -126.5}
+      - {x: 75, y: -128.5}
+      - {x: 75, y: -137.5}
+      - {x: 78, y: -139.5}
+      - {x: 84, y: -139.5}
+      - {x: 89, y: -136.5}
+      - {x: 90, y: -133.5}
+      - {x: 90, y: -130.5}
+    - - {x: 60, y: -127.5}
+      - {x: 60, y: -136.5}
+      - {x: 61, y: -138.5}
+      - {x: 71, y: -138.5}
+      - {x: 73, y: -134.5}
+      - {x: 73, y: -127.5}
+    - - {x: 107, y: -125.5}
+      - {x: 107, y: -137.5}
+      - {x: 111, y: -138.5}
+      - {x: 120, y: -138.5}
+      - {x: 122, y: -135.5}
+      - {x: 122, y: -127.5}
+      - {x: 121, y: -125.5}
+    - - {x: -136, y: -126.5}
+      - {x: -137, y: -126.5}
+      - {x: -141, y: -128.5}
+      - {x: -141, y: -132.5}
+      - {x: -139, y: -137.5}
+      - {x: -135, y: -137.5}
+      - {x: -132, y: -133.5}
+      - {x: -132, y: -130.5}
+    - - {x: 11, y: -108.5}
+      - {x: 25, y: -108.5}
+      - {x: 25, y: -97.5}
+      - {x: 23, y: -95.5}
+      - {x: 15, y: -95.5}
+      - {x: 11, y: -99.5}
+    - - {x: 80, y: -83.5}
+      - {x: 45, y: -86.5}
+      - {x: 42, y: -92.5}
+      - {x: 42, y: -108.5}
+      - {x: 123, y: -108.5}
+      - {x: 124, y: -106.5}
+      - {x: 124, y: -84.5}
+      - {x: 123, y: -83.5}
+    - - {x: -159, y: -94.5}
+      - {x: -159, y: -107.5}
+      - {x: -150, y: -107.5}
+      - {x: -147, y: -106.5}
+      - {x: -147, y: -98.5}
+      - {x: -151, y: -94.5}
+    - - {x: -79, y: -90.5}
+      - {x: -84, y: -87.5}
+      - {x: -115, y: -87.5}
+      - {x: -127, y: -88.5}
+      - {x: -128, y: -89.5}
+      - {x: -128, y: -104.5}
+      - {x: -124, y: -106.5}
+      - {x: -82, y: -106.5}
+      - {x: -79, y: -97.5}
+    - - {x: 31, y: -106.5}
+      - {x: 36, y: -106.5}
+      - {x: 42, y: -104.5}
+      - {x: 42, y: -98.5}
+      - {x: 41, y: -94.5}
+      - {x: 33, y: -94.5}
+      - {x: 27, y: -97.5}
+      - {x: 27, y: -103.5}
+    - - {x: -135, y: -93.5}
+      - {x: -142, y: -99.5}
+      - {x: -142, y: -102.5}
+      - {x: -141, y: -104.5}
+      - {x: -137, y: -105.5}
+      - {x: -134, y: -105.5}
+      - {x: -130, y: -100.5}
+      - {x: -130, y: -94.5}
+      - {x: -131, y: -93.5}
+    - - {x: -155, y: -63.5}
+      - {x: -157, y: -64.5}
+      - {x: -159, y: -68.5}
+      - {x: -159, y: -75.5}
+      - {x: -158, y: -77.5}
+      - {x: -147, y: -77.5}
+      - {x: -145, y: -76.5}
+      - {x: -145, y: -73.5}
+      - {x: -148, y: -66.5}
+      - {x: -149, y: -63.5}
+    - - {x: 13, y: -66.5}
+      - {x: 12, y: -70.5}
+      - {x: 12, y: -72.5}
+      - {x: 18, y: -77.5}
+      - {x: 24, y: -77.5}
+      - {x: 25, y: -76.5}
+      - {x: 25, y: -71.5}
+      - {x: 18, y: -64.5}
+    - - {x: -78, y: -76.5}
+      - {x: -61, y: -76.5}
+      - {x: -59, y: -75.5}
+      - {x: -59, y: -54.5}
+      - {x: -67, y: -52.5}
+      - {x: -114, y: -52.5}
+      - {x: -126, y: -58.5}
+      - {x: -128, y: -62.5}
+      - {x: -128, y: -70.5}
+      - {x: -123, y: -74.5}
+      - {x: -99, y: -76.5}
+      - {x: -84, y: -76.5}
+      - {x: -79, y: -72.5}
+      - {x: -79, y: -66.5}
+      - {x: -79, y: -73.5}
+    - - {x: 59, y: -56.5}
+      - {x: 58, y: -57.5}
+      - {x: 58, y: -75.5}
+      - {x: 88, y: -75.5}
+      - {x: 92, y: -70.5}
+      - {x: 92, y: -65.5}
+      - {x: 89, y: -56.5}
+    - - {x: -134, y: -62.5}
+      - {x: -136, y: -62.5}
+      - {x: -141, y: -64.5}
+      - {x: -141, y: -72.5}
+      - {x: -140, y: -74.5}
+      - {x: -134, y: -74.5}
+      - {x: -131, y: -70.5}
+      - {x: -131, y: -66.5}
+    - - {x: 32, y: -64.5}
+      - {x: 29, y: -67.5}
+      - {x: 29, y: -71.5}
+      - {x: 32, y: -74.5}
+      - {x: 35, y: -74.5}
+      - {x: 39, y: -70.5}
+      - {x: 39, y: -69.5}
+      - {x: 34, y: -64.5}
+    - - {x: 48, y: -59.5}
+      - {x: 44, y: -62.5}
+      - {x: 44, y: -72.5}
+      - {x: 46, y: -74.5}
+      - {x: 53, y: -74.5}
+      - {x: 55, y: -73.5}
+      - {x: 58, y: -68.5}
+      - {x: 58, y: -62.5}
+      - {x: 57, y: -59.5}
+    - - {x: 93, y: -54.5}
+      - {x: 93, y: -74.5}
+      - {x: 127, y: -74.5}
+      - {x: 127, y: -58.5}
+      - {x: 123, y: -54.5}
+    - - {x: 20, y: -29.5}
+      - {x: 12, y: -29.5}
+      - {x: 10, y: -33.5}
+      - {x: 10, y: -46.5}
+      - {x: 22, y: -46.5}
+      - {x: 26, y: -43.5}
+      - {x: 26, y: -36.5}
+      - {x: 25, y: -31.5}
+    - - {x: -156, y: -32.5}
+      - {x: -158, y: -33.5}
+      - {x: -158, y: -43.5}
+      - {x: -155, y: -44.5}
+      - {x: -150, y: -44.5}
+      - {x: -146, y: -41.5}
+      - {x: -146, y: -35.5}
+      - {x: -147, y: -32.5}
+    - - {x: 82, y: -16.5}
+      - {x: 48, y: -24.5}
+      - {x: 42, y: -35.5}
+      - {x: 42, y: -42.5}
+      - {x: 45, y: -44.5}
+      - {x: 122, y: -44.5}
+      - {x: 123, y: -40.5}
+      - {x: 123, y: -17.5}
+      - {x: 116, y: -16.5}
+    - - {x: 28, y: -32.5}
+      - {x: 28, y: -42.5}
+      - {x: 32, y: -43.5}
+      - {x: 38, y: -43.5}
+      - {x: 39, y: -40.5}
+      - {x: 40, y: -35.5}
+      - {x: 39, y: -32.5}
+    - - {x: -143, y: -29.5}
+      - {x: -143, y: -34.5}
+      - {x: -141, y: -40.5}
+      - {x: -138, y: -42.5}
+      - {x: -135, y: -42.5}
+      - {x: -130, y: -36.5}
+      - {x: -130, y: -30.5}
+      - {x: -132, y: -29.5}
+    - - {x: -125, y: -26.5}
+      - {x: -127, y: -27.5}
+      - {x: -127, y: -36.5}
+      - {x: -126, y: -40.5}
+      - {x: -125, y: -42.5}
+      - {x: -119, y: -42.5}
+      - {x: -112, y: -38.5}
+      - {x: -112, y: -31.5}
+      - {x: -120, y: -26.5}
+    - - {x: -112, y: -36.5}
+      - {x: -107, y: -42.5}
+      - {x: -63, y: -42.5}
+      - {x: -62, y: -38.5}
+      - {x: -62, y: -18.5}
+      - {x: -102, y: -18.5}
+      - {x: -112, y: -19.5}
+    - - {x: 129, y: -20.5}
+      - {x: 123, y: -23.5}
+      - {x: 123, y: -36.5}
+      - {x: 128, y: -40.5}
+      - {x: 152, y: -40.5}
+      - {x: 156, y: -34.5}
+      - {x: 156, y: -20.5}
+    - - {x: 18, y: 2.5}
+      - {x: 10, y: 0.5}
+      - {x: 10, y: -12.5}
+      - {x: 12, y: -13.5}
+      - {x: 20, y: -13.5}
+      - {x: 26, y: -8.5}
+      - {x: 26, y: 0.5}
+      - {x: 23, y: 2.5}
+    - - {x: 105, y: 39.5}
+      - {x: 57, y: 39.5}
+      - {x: 47, y: 37.5}
+      - {x: 41, y: 30.5}
+      - {x: 41, y: 24.5}
+      - {x: 45, y: 18.5}
+      - {x: 60, y: 15.5}
+      - {x: 90, y: -13.5}
+      - {x: 103, y: -13.5}
+      - {x: 107, y: -8.5}
+      - {x: 108, y: 18.5}
+      - {x: 108, y: 37.5}
+    - - {x: 111, y: 19.5}
+      - {x: 107, y: 14.5}
+      - {x: 107, y: -13.5}
+      - {x: 119, y: -13.5}
+      - {x: 122, y: -10.5}
+      - {x: 122, y: 18.5}
+      - {x: 119, y: 19.5}
+    - - {x: -128, y: 5.5}
+      - {x: -128, y: -6.5}
+      - {x: -125, y: -12.5}
+      - {x: -96, y: -12.5}
+      - {x: -96, y: 4.5}
+      - {x: -101, y: 5.5}
+    - - {x: -91, y: 10.5}
+      - {x: -96, y: 8.5}
+      - {x: -96, y: -6.5}
+      - {x: -91, y: -12.5}
+      - {x: -82, y: -12.5}
+      - {x: -80, y: -9.5}
+      - {x: -80, y: 8.5}
+      - {x: -85, y: 10.5}
+    - - {x: -80, y: 15.5}
+      - {x: -80, y: -11.5}
+      - {x: -74, y: -12.5}
+      - {x: -71, y: -12.5}
+      - {x: -64, y: -9.5}
+      - {x: -64, y: 14.5}
+      - {x: -70, y: 15.5}
+    - - {x: -62, y: 15.5}
+      - {x: -64, y: 12.5}
+      - {x: -64, y: -6.5}
+      - {x: -63, y: -10.5}
+      - {x: -57, y: -12.5}
+      - {x: -55, y: -12.5}
+      - {x: -48, y: -9.5}
+      - {x: -48, y: 14.5}
+      - {x: -49, y: 15.5}
+    - - {x: 49, y: 2.5}
+      - {x: 45, y: -0.5}
+      - {x: 44, y: -3.5}
+      - {x: 44, y: -8.5}
+      - {x: 48, y: -12.5}
+      - {x: 52, y: -12.5}
+      - {x: 57, y: -8.5}
+      - {x: 57, y: 0.5}
+      - {x: 51, y: 2.5}
+    - - {x: 64, y: 8.5}
+      - {x: 60, y: 3.5}
+      - {x: 60, y: -6.5}
+      - {x: 62, y: -12.5}
+      - {x: 68, y: -12.5}
+      - {x: 73, y: -10.5}
+      - {x: 73, y: 3.5}
+      - {x: 67, y: 8.5}
+    - - {x: 88, y: 13.5}
+      - {x: 82, y: 13.5}
+      - {x: 78, y: 12.5}
+      - {x: 75, y: 7.5}
+      - {x: 75, y: -8.5}
+      - {x: 79, y: -12.5}
+      - {x: 85, y: -12.5}
+      - {x: 90, y: -7.5}
+      - {x: 90, y: 8.5}
+    - - {x: -155, y: 1.5}
+      - {x: -159, y: -1.5}
+      - {x: -159, y: -11.5}
+      - {x: -146, y: -11.5}
+      - {x: -146, y: -3.5}
+      - {x: -149, y: 1.5}
+    - - {x: -141, y: 0.5}
+      - {x: -142, y: -1.5}
+      - {x: -142, y: -7.5}
+      - {x: -137, y: -11.5}
+      - {x: -132, y: -11.5}
+      - {x: -129, y: -7.5}
+      - {x: -129, y: -1.5}
+      - {x: -133, y: 0.5}
+    - - {x: 32, y: -0.5}
+      - {x: 29, y: -3.5}
+      - {x: 29, y: -10.5}
+      - {x: 32, y: -11.5}
+      - {x: 37, y: -11.5}
+      - {x: 40, y: -7.5}
+      - {x: 40, y: -4.5}
+      - {x: 36, y: -0.5}
+    - - {x: 15, y: 30.5}
+      - {x: 13, y: 29.5}
+      - {x: 13, y: 20.5}
+      - {x: 16, y: 19.5}
+      - {x: 24, y: 19.5}
+      - {x: 26, y: 23.5}
+      - {x: 26, y: 27.5}
+      - {x: 22, y: 30.5}
+    - - {x: -154, y: 32.5}
+      - {x: -158, y: 28.5}
+      - {x: -158, y: 21.5}
+      - {x: -156, y: 20.5}
+      - {x: -146, y: 20.5}
+      - {x: -144, y: 21.5}
+      - {x: -144, y: 25.5}
+      - {x: -145, y: 27.5}
+      - {x: -148, y: 32.5}
+    - - {x: -126, y: 33.5}
+      - {x: -127, y: 30.5}
+      - {x: -127, y: 25.5}
+      - {x: -123, y: 20.5}
+      - {x: -116, y: 20.5}
+      - {x: -112, y: 27.5}
+      - {x: -112, y: 33.5}
+    - - {x: -110, y: 35.5}
+      - {x: -111, y: 33.5}
+      - {x: -111, y: 25.5}
+      - {x: -107, y: 20.5}
+      - {x: -101, y: 20.5}
+      - {x: -96, y: 26.5}
+      - {x: -96, y: 33.5}
+      - {x: -103, y: 35.5}
+    - - {x: -93, y: 36.5}
+      - {x: -94, y: 35.5}
+      - {x: -94, y: 20.5}
+      - {x: -83, y: 20.5}
+      - {x: -80, y: 22.5}
+      - {x: -79, y: 24.5}
+      - {x: -79, y: 34.5}
+      - {x: -87, y: 36.5}
+    - - {x: -140, y: 31.5}
+      - {x: -141, y: 28.5}
+      - {x: -141, y: 22.5}
+      - {x: -138, y: 21.5}
+      - {x: -133, y: 21.5}
+      - {x: -130, y: 24.5}
+      - {x: -130, y: 27.5}
+      - {x: -132, y: 31.5}
+    - - {x: 29, y: 32.5}
+      - {x: 28, y: 27.5}
+      - {x: 28, y: 24.5}
+      - {x: 32, y: 21.5}
+      - {x: 37, y: 21.5}
+      - {x: 40, y: 24.5}
+      - {x: 40, y: 29.5}
+      - {x: 39, y: 32.5}
+    - - {x: 53, y: 73.5}
+      - {x: 42, y: 68.5}
+      - {x: 42, y: 48.5}
+      - {x: 46, y: 47.5}
+      - {x: 81, y: 47.5}
+      - {x: 81, y: 71.5}
+      - {x: 80, y: 73.5}
+    - - {x: 88, y: 78.5}
+      - {x: 82, y: 72.5}
+      - {x: 82, y: 50.5}
+      - {x: 84, y: 48.5}
+      - {x: 100, y: 48.5}
+      - {x: 102, y: 50.5}
+      - {x: 102, y: 72.5}
+      - {x: 100, y: 78.5}
+    - - {x: 10, y: 52.5}
+      - {x: 11, y: 50.5}
+      - {x: 26, y: 50.5}
+      - {x: 26, y: 62.5}
+      - {x: 25, y: 65.5}
+      - {x: 17, y: 65.5}
+      - {x: 11, y: 63.5}
+      - {x: 10, y: 60.5}
+    - - {x: 31, y: 63.5}
+      - {x: 27, y: 61.5}
+      - {x: 27, y: 50.5}
+      - {x: 40, y: 50.5}
+      - {x: 41, y: 56.5}
+      - {x: 41, y: 61.5}
+      - {x: 35, y: 63.5}
+    - - {x: -57, y: 51.5}
+      - {x: -47, y: 55.5}
+      - {x: -47, y: 78.5}
+      - {x: -100, y: 78.5}
+      - {x: -128, y: 72.5}
+      - {x: -128, y: 51.5}
+    - - {x: -151, y: 65.5}
+      - {x: -157, y: 65.5}
+      - {x: -159, y: 62.5}
+      - {x: -159, y: 54.5}
+      - {x: -158, y: 52.5}
+      - {x: -147, y: 52.5}
+      - {x: -146, y: 55.5}
+      - {x: -146, y: 61.5}
+      - {x: -148, y: 64.5}
+    - - {x: -143, y: 56.5}
+      - {x: -140, y: 52.5}
+      - {x: -133, y: 52.5}
+      - {x: -128, y: 55.5}
+      - {x: -128, y: 59.5}
+      - {x: -129, y: 62.5}
+      - {x: -141, y: 62.5}
+      - {x: -143, y: 59.5}
+    - - {x: -62, y: 109.5}
+      - {x: -95, y: 109.5}
+      - {x: -95, y: 83.5}
+      - {x: -47, y: 83.5}
+      - {x: -47, y: 103.5}
+      - {x: -49, y: 107.5}
+    - - {x: -154, y: 95.5}
+      - {x: -157, y: 94.5}
+      - {x: -157, y: 84.5}
+      - {x: -151, y: 84.5}
+      - {x: -146, y: 86.5}
+      - {x: -146, y: 91.5}
+      - {x: -150, y: 95.5}
+    - - {x: -141, y: 97.5}
+      - {x: -142, y: 96.5}
+      - {x: -142, y: 86.5}
+      - {x: -140, y: 84.5}
+      - {x: -133, y: 84.5}
+      - {x: -130, y: 85.5}
+      - {x: -130, y: 97.5}
+    - - {x: -123, y: 101.5}
+      - {x: -127, y: 99.5}
+      - {x: -127, y: 90.5}
+      - {x: -123, y: 84.5}
+      - {x: -115, y: 84.5}
+      - {x: -111, y: 89.5}
+      - {x: -111, y: 97.5}
+      - {x: -116, y: 101.5}
+    - - {x: -112, y: 105.5}
+      - {x: -112, y: 94.5}
+      - {x: -111, y: 85.5}
+      - {x: -107, y: 84.5}
+      - {x: -98, y: 84.5}
+      - {x: -95, y: 87.5}
+      - {x: -95, y: 98.5}
+      - {x: -96, y: 105.5}
+    - - {x: 27, y: 90.5}
+      - {x: 31, y: 84.5}
+      - {x: 38, y: 84.5}
+      - {x: 38, y: 91.5}
+      - {x: 35, y: 96.5}
+      - {x: 28, y: 96.5}
+      - {x: 27, y: 94.5}
+    - - {x: 46, y: 101.5}
+      - {x: 43, y: 95.5}
+      - {x: 43, y: 91.5}
+      - {x: 47, y: 84.5}
+      - {x: 54, y: 84.5}
+      - {x: 56, y: 85.5}
+      - {x: 57, y: 88.5}
+      - {x: 57, y: 101.5}
+    - - {x: 94, y: 86.5}
+      - {x: 98, y: 84.5}
+      - {x: 105, y: 84.5}
+      - {x: 110, y: 88.5}
+      - {x: 110, y: 109.5}
+      - {x: 105, y: 111.5}
+      - {x: 57, y: 111.5}
+      - {x: 57, y: 92.5}
+      - {x: 61, y: 84.5}
+      - {x: 88, y: 84.5}
+      - {x: 91, y: 91.5}
+      - {x: 91, y: 96.5}
+      - {x: 91, y: 92.5}
+    - - {x: 15, y: 96.5}
+      - {x: 12, y: 92.5}
+      - {x: 12, y: 88.5}
+      - {x: 13, y: 85.5}
+      - {x: 21, y: 85.5}
+      - {x: 25, y: 87.5}
+      - {x: 25, y: 89.5}
+      - {x: 23, y: 96.5}
+    - - {x: 42, y: 119.5}
+      - {x: 47, y: 114.5}
+      - {x: 50, y: 114.5}
+      - {x: 57, y: 117.5}
+      - {x: 57, y: 129.5}
+      - {x: 42, y: 129.5}
+    - - {x: 58, y: 132.5}
+      - {x: 57, y: 130.5}
+      - {x: 57, y: 120.5}
+      - {x: 60, y: 116.5}
+      - {x: 62, y: 114.5}
+      - {x: 69, y: 114.5}
+      - {x: 74, y: 122.5}
+      - {x: 74, y: 130.5}
+      - {x: 73, y: 132.5}
+    - - {x: 80, y: 139.5}
+      - {x: 74, y: 135.5}
+      - {x: 74, y: 118.5}
+      - {x: 80, y: 114.5}
+      - {x: 102, y: 114.5}
+      - {x: 108, y: 120.5}
+      - {x: 108, y: 139.5}
+    - - {x: 28, y: 126.5}
+      - {x: 27, y: 123.5}
+      - {x: 27, y: 120.5}
+      - {x: 30, y: 116.5}
+      - {x: 34, y: 116.5}
+      - {x: 39, y: 118.5}
+      - {x: 40, y: 123.5}
+      - {x: 37, y: 126.5}
+    - - {x: -154, y: 125.5}
+      - {x: -157, y: 122.5}
+      - {x: -157, y: 118.5}
+      - {x: -155, y: 117.5}
+      - {x: -150, y: 117.5}
+      - {x: -149, y: 119.5}
+      - {x: -148, y: 123.5}
+      - {x: -150, y: 125.5}
+    - - {x: -141, y: 117.5}
+      - {x: -137, y: 117.5}
+      - {x: -132, y: 119.5}
+      - {x: -132, y: 122.5}
+      - {x: -135, y: 126.5}
+      - {x: -141, y: 126.5}
+    - - {x: -126, y: 127.5}
+      - {x: -126, y: 122.5}
+      - {x: -124, y: 117.5}
+      - {x: -119, y: 117.5}
+      - {x: -113, y: 122.5}
+      - {x: -113, y: 127.5}
+    - - {x: -105, y: 130.5}
+      - {x: -111, y: 125.5}
+      - {x: -111, y: 120.5}
+      - {x: -108, y: 117.5}
+      - {x: -103, y: 117.5}
+      - {x: -97, y: 121.5}
+      - {x: -97, y: 125.5}
+      - {x: -101, y: 130.5}
+    - - {x: -89, y: 134.5}
+      - {x: -95, y: 130.5}
+      - {x: -95, y: 119.5}
+      - {x: -92, y: 117.5}
+      - {x: -86, y: 117.5}
+      - {x: -81, y: 120.5}
+      - {x: -81, y: 127.5}
+      - {x: -84, y: 134.5}
+    - - {x: -69, y: 140.5}
+      - {x: -74, y: 140.5}
+      - {x: -79, y: 133.5}
+      - {x: -79, y: 118.5}
+      - {x: -76, y: 117.5}
+      - {x: -67, y: 117.5}
+      - {x: -65, y: 119.5}
+      - {x: -64, y: 124.5}
+      - {x: -64, y: 132.5}
+    - - {x: 13, y: 117.5}
+      - {x: 23, y: 117.5}
+      - {x: 23, y: 123.5}
+      - {x: 22, y: 125.5}
+      - {x: 14, y: 125.5}
+      - {x: 13, y: 123.5}
+    - - {x: -59, y: 138.5}
+      - {x: -62, y: 133.5}
+      - {x: -63, y: 129.5}
+      - {x: -63, y: 125.5}
+      - {x: -59, y: 118.5}
+      - {x: -51, y: 118.5}
+      - {x: -49, y: 119.5}
+      - {x: -48, y: 123.5}
+      - {x: -48, y: 136.5}
+      - {x: -52, y: 138.5}
+    - - {x: 64, y: 171.5}
+      - {x: 42, y: 163.5}
+      - {x: 42, y: 147.5}
+      - {x: 91, y: 147.5}
+      - {x: 92, y: 150.5}
+      - {x: 92, y: 170.5}
+      - {x: 91, y: 171.5}
+    - - {x: -115, y: 161.5}
+      - {x: -124, y: 161.5}
+      - {x: -126, y: 154.5}
+      - {x: -126, y: 150.5}
+      - {x: -123, y: 148.5}
+      - {x: -120, y: 148.5}
+      - {x: -117, y: 151.5}
+      - {x: -115, y: 154.5}
+    - - {x: -98, y: 166.5}
+      - {x: -102, y: 166.5}
+      - {x: -112, y: 162.5}
+      - {x: -112, y: 150.5}
+      - {x: -107, y: 148.5}
+      - {x: -100, y: 148.5}
+      - {x: -95, y: 156.5}
+      - {x: -95, y: 160.5}
+    - - {x: -86, y: 170.5}
+      - {x: -96, y: 166.5}
+      - {x: -96, y: 158.5}
+      - {x: -95, y: 151.5}
+      - {x: -93, y: 148.5}
+      - {x: -85, y: 148.5}
+      - {x: -81, y: 149.5}
+      - {x: -79, y: 154.5}
+      - {x: -79, y: 164.5}
+      - {x: -81, y: 170.5}
+    - - {x: -73, y: 164.5}
+      - {x: -76, y: 163.5}
+      - {x: -76, y: 151.5}
+      - {x: -74, y: 148.5}
+      - {x: -65, y: 148.5}
+      - {x: -61, y: 150.5}
+      - {x: -61, y: 162.5}
+      - {x: -64, y: 164.5}
+    - - {x: 18, y: 159.5}
+      - {x: 13, y: 157.5}
+      - {x: 11, y: 151.5}
+      - {x: 13, y: 148.5}
+      - {x: 22, y: 148.5}
+      - {x: 26, y: 152.5}
+      - {x: 26, y: 157.5}
+      - {x: 25, y: 159.5}
+    - - {x: -156, y: 158.5}
+      - {x: -158, y: 154.5}
+      - {x: -158, y: 150.5}
+      - {x: -156, y: 149.5}
+      - {x: -150, y: 149.5}
+      - {x: -146, y: 153.5}
+      - {x: -146, y: 156.5}
+      - {x: -147, y: 158.5}
+    - - {x: -141, y: 151.5}
+      - {x: -140, y: 149.5}
+      - {x: -135, y: 149.5}
+      - {x: -132, y: 150.5}
+      - {x: -132, y: 158.5}
+      - {x: -136, y: 158.5}
+      - {x: -141, y: 155.5}
+    - - {x: 29, y: 159.5}
+      - {x: 28, y: 156.5}
+      - {x: 28, y: 152.5}
+      - {x: 30, y: 149.5}
+      - {x: 35, y: 149.5}
+      - {x: 40, y: 151.5}
+      - {x: 40, y: 156.5}
+      - {x: 39, y: 159.5}
+    - - {x: 98, y: 168.5}
+      - {x: 94, y: 163.5}
+      - {x: 94, y: 151.5}
+      - {x: 100, y: 149.5}
+      - {x: 111, y: 149.5}
+      - {x: 114, y: 153.5}
+      - {x: 114, y: 161.5}
+      - {x: 111, y: 168.5}
+    - - {x: -113, y: 181.5}
+      - {x: -111, y: 177.5}
+      - {x: -62, y: 177.5}
+      - {x: -62, y: 196.5}
+      - {x: -105, y: 196.5}
+      - {x: -113, y: 194.5}
+    - - {x: -58, y: 194.5}
+      - {x: -61, y: 191.5}
+      - {x: -61, y: 181.5}
+      - {x: -59, y: 178.5}
+      - {x: -49, y: 178.5}
+      - {x: -45, y: 180.5}
+      - {x: -45, y: 192.5}
+      - {x: -50, y: 194.5}
+    - - {x: 92, y: 201.5}
+      - {x: 90, y: 199.5}
+      - {x: 90, y: 183.5}
+      - {x: 92, y: 179.5}
+      - {x: 102, y: 179.5}
+      - {x: 107, y: 182.5}
+      - {x: 107, y: 201.5}
+    - - {x: -147, y: 190.5}
+      - {x: -151, y: 190.5}
+      - {x: -157, y: 189.5}
+      - {x: -158, y: 187.5}
+      - {x: -158, y: 181.5}
+      - {x: -156, y: 180.5}
+      - {x: -152, y: 180.5}
+      - {x: -146, y: 181.5}
+      - {x: -145, y: 183.5}
+      - {x: -145, y: 189.5}
+    - - {x: 14, y: 186.5}
+      - {x: 14, y: 183.5}
+      - {x: 15, y: 180.5}
+      - {x: 24, y: 180.5}
+      - {x: 24, y: 185.5}
+      - {x: 20, y: 190.5}
+      - {x: 18, y: 190.5}
+    - - {x: 61, y: 195.5}
+      - {x: 59, y: 191.5}
+      - {x: 59, y: 184.5}
+      - {x: 63, y: 180.5}
+      - {x: 67, y: 180.5}
+      - {x: 73, y: 183.5}
+      - {x: 73, y: 194.5}
+      - {x: 71, y: 195.5}
+    - - {x: 74, y: 198.5}
+      - {x: 74, y: 184.5}
+      - {x: 77, y: 180.5}
+      - {x: 88, y: 180.5}
+      - {x: 90, y: 183.5}
+      - {x: 90, y: 197.5}
+      - {x: 88, y: 198.5}
+    - - {x: -141, y: 189.5}
+      - {x: -142, y: 183.5}
+      - {x: -142, y: 181.5}
+      - {x: -135, y: 181.5}
+      - {x: -131, y: 182.5}
+      - {x: -131, y: 189.5}
+    - - {x: -124, y: 193.5}
+      - {x: -126, y: 191.5}
+      - {x: -126, y: 185.5}
+      - {x: -125, y: 181.5}
+      - {x: -119, y: 181.5}
+      - {x: -113, y: 184.5}
+      - {x: -113, y: 190.5}
+      - {x: -114, y: 193.5}
+    - - {x: 30, y: 191.5}
+      - {x: 30, y: 183.5}
+      - {x: 31, y: 181.5}
+      - {x: 36, y: 181.5}
+      - {x: 38, y: 185.5}
+      - {x: 38, y: 188.5}
+      - {x: 34, y: 191.5}
+    - - {x: 52, y: 193.5}
+      - {x: 48, y: 193.5}
+      - {x: 45, y: 192.5}
+      - {x: 45, y: 182.5}
+      - {x: 49, y: 181.5}
+      - {x: 55, y: 181.5}
+      - {x: 57, y: 185.5}
+      - {x: 57, y: 188.5}
+    - - {x: -155, y: 222.5}
+      - {x: -159, y: 218.5}
+      - {x: -159, y: 214.5}
+      - {x: -152, y: 211.5}
+      - {x: -146, y: 211.5}
+      - {x: -146, y: 221.5}
+      - {x: -148, y: 223.5}
+    - - {x: -110, y: 231.5}
+      - {x: -125, y: 224.5}
+      - {x: -128, y: 219.5}
+      - {x: -128, y: 211.5}
+      - {x: -78, y: 211.5}
+      - {x: -78, y: 231.5}
+    - - {x: -2, y: 211.5}
+      - {x: 9, y: 211.5}
+      - {x: 9, y: 222.5}
+      - {x: 5, y: 238.5}
+      - {x: 0, y: 238.5}
+      - {x: -3, y: 236.5}
+      - {x: -3, y: 213.5}
+    - - {x: 21, y: 238.5}
+      - {x: 14, y: 238.5}
+      - {x: 12, y: 233.5}
+      - {x: 12, y: 214.5}
+      - {x: 16, y: 211.5}
+      - {x: 20, y: 211.5}
+      - {x: 23, y: 212.5}
+      - {x: 23, y: 230.5}
+      - {x: 22, y: 237.5}
+    - - {x: 120, y: 242.5}
+      - {x: 107, y: 242.5}
+      - {x: 106, y: 239.5}
+      - {x: 102, y: 241.5}
+      - {x: 97, y: 242.5}
+      - {x: 91, y: 242.5}
+      - {x: 89, y: 239.5}
+      - {x: 75, y: 239.5}
+      - {x: 73, y: 236.5}
+      - {x: 65, y: 239.5}
+      - {x: 59, y: 230.5}
+      - {x: 58, y: 227.5}
+      - {x: 58, y: 213.5}
+      - {x: 62, y: 211.5}
+      - {x: 116, y: 211.5}
+      - {x: 122, y: 215.5}
+      - {x: 122, y: 234.5}
+    - - {x: 27, y: 238.5}
+      - {x: 27, y: 212.5}
+      - {x: 55, y: 212.5}
+      - {x: 57, y: 214.5}
+      - {x: 57, y: 238.5}
+    - - {x: -143, y: 223.5}
+      - {x: -144, y: 221.5}
+      - {x: -144, y: 216.5}
+      - {x: -140, y: 213.5}
+      - {x: -136, y: 213.5}
+      - {x: -131, y: 215.5}
+      - {x: -129, y: 216.5}
+      - {x: -129, y: 223.5}
+    physicsShape:
+    - - {x: -157, y: -223.5}
+      - {x: -158, y: -228.5}
+      - {x: -158, y: -234.5}
+      - {x: -156, y: -235.5}
+      - {x: -148, y: -235.5}
+      - {x: -146, y: -231.5}
+      - {x: -146, y: -228.5}
+      - {x: -148, y: -223.5}
+    - - {x: -136, y: -225.5}
+      - {x: -139, y: -228.5}
+      - {x: -139, y: -231.5}
+      - {x: -137, y: -233.5}
+      - {x: -133, y: -233.5}
+      - {x: -132, y: -231.5}
+      - {x: -132, y: -226.5}
+      - {x: -135, y: -225.5}
+    - - {x: -125, y: -223.5}
+      - {x: -127, y: -227.5}
+      - {x: -127, y: -229.5}
+      - {x: -122, y: -233.5}
+      - {x: -118, y: -233.5}
+      - {x: -112, y: -228.5}
+      - {x: -112, y: -226.5}
+      - {x: -114, y: -223.5}
+    - - {x: -104, y: -215.5}
+      - {x: -112, y: -222.5}
+      - {x: -112, y: -231.5}
+      - {x: -108, y: -233.5}
+      - {x: -98, y: -233.5}
+      - {x: -96, y: -228.5}
+      - {x: -96, y: -216.5}
+      - {x: -97, y: -215.5}
+    - - {x: -89, y: -216.5}
+      - {x: -95, y: -223.5}
+      - {x: -95, y: -229.5}
+      - {x: -90, y: -233.5}
+      - {x: -83, y: -233.5}
+      - {x: -79, y: -228.5}
+      - {x: -79, y: -219.5}
+      - {x: -83, y: -216.5}
+    - - {x: 104, y: -209.5}
+      - {x: 100, y: -208.5}
+      - {x: 97, y: -208.5}
+      - {x: 94, y: -212.5}
+      - {x: 91, y: -208.5}
+      - {x: 79, y: -208.5}
+      - {x: 76, y: -211.5}
+      - {x: 71, y: -208.5}
+      - {x: 61, y: -208.5}
+      - {x: 53, y: -210.5}
+      - {x: 44, y: -215.5}
+      - {x: 33, y: -215.5}
+      - {x: 29, y: -218.5}
+      - {x: 29, y: -228.5}
+      - {x: 31, y: -231.5}
+      - {x: 43, y: -229.5}
+      - {x: 48, y: -232.5}
+      - {x: 109, y: -232.5}
+      - {x: 110, y: -227.5}
+      - {x: 110, y: -215.5}
+    - - {x: 16, y: -221.5}
+      - {x: 15, y: -225.5}
+      - {x: 19, y: -229.5}
+      - {x: 22, y: -229.5}
+      - {x: 26, y: -225.5}
+      - {x: 24, y: -220.5}
+      - {x: 20, y: -219.5}
+    - - {x: 19, y: -196.5}
+      - {x: 14, y: -199.5}
+      - {x: 14, y: -203.5}
+      - {x: 15, y: -205.5}
+      - {x: 25, y: -205.5}
+      - {x: 26, y: -203.5}
+      - {x: 26, y: -199.5}
+      - {x: 21, y: -196.5}
+    - - {x: 34, y: -196.5}
+      - {x: 33, y: -198.5}
+      - {x: 33, y: -204.5}
+      - {x: 40, y: -204.5}
+      - {x: 40, y: -199.5}
+      - {x: 39, y: -196.5}
+    - - {x: 51, y: -189.5}
+      - {x: 45, y: -193.5}
+      - {x: 45, y: -202.5}
+      - {x: 49, y: -204.5}
+      - {x: 58, y: -204.5}
+      - {x: 60, y: -200.5}
+      - {x: 60, y: -191.5}
+      - {x: 57, y: -189.5}
+    - - {x: 92, y: -199.5}
+      - {x: 93, y: -192.5}
+      - {x: 93, y: -189.5}
+      - {x: 93, y: -200.5}
+      - {x: 98, y: -204.5}
+      - {x: 103, y: -204.5}
+      - {x: 109, y: -200.5}
+      - {x: 109, y: -181.5}
+      - {x: 107, y: -177.5}
+      - {x: 77, y: -177.5}
+      - {x: 63, y: -183.5}
+      - {x: 60, y: -187.5}
+      - {x: 60, y: -200.5}
+      - {x: 63, y: -204.5}
+      - {x: 72, y: -204.5}
+      - {x: 76, y: -202.5}
+      - {x: 81, y: -204.5}
+      - {x: 87, y: -204.5}
+    - - {x: -134, y: -193.5}
+      - {x: -138, y: -193.5}
+      - {x: -139, y: -196.5}
+      - {x: -139, y: -200.5}
+      - {x: -137, y: -201.5}
+      - {x: -133, y: -201.5}
+      - {x: -132, y: -199.5}
+      - {x: -132, y: -194.5}
+    - - {x: -115, y: -191.5}
+      - {x: -124, y: -191.5}
+      - {x: -126, y: -194.5}
+      - {x: -126, y: -197.5}
+      - {x: -122, y: -201.5}
+      - {x: -117, y: -201.5}
+      - {x: -113, y: -197.5}
+      - {x: -113, y: -194.5}
+    - - {x: -111, y: -188.5}
+      - {x: -112, y: -192.5}
+      - {x: -112, y: -196.5}
+      - {x: -108, y: -200.5}
+      - {x: -106, y: -201.5}
+      - {x: -100, y: -201.5}
+      - {x: -95, y: -196.5}
+      - {x: -95, y: -192.5}
+      - {x: -96, y: -188.5}
+    - - {x: -63, y: -177.5}
+      - {x: -74, y: -177.5}
+      - {x: -95, y: -188.5}
+      - {x: -95, y: -200.5}
+      - {x: -91, y: -201.5}
+      - {x: -73, y: -201.5}
+      - {x: -65, y: -196.5}
+      - {x: -63, y: -191.5}
+    - - {x: -152, y: -193.5}
+      - {x: -156, y: -197.5}
+      - {x: -156, y: -198.5}
+      - {x: -154, y: -200.5}
+      - {x: -148, y: -200.5}
+      - {x: -146, y: -198.5}
+      - {x: -146, y: -197.5}
+      - {x: -150, y: -193.5}
+    - - {x: 17, y: -164.5}
+      - {x: 16, y: -165.5}
+      - {x: 16, y: -171.5}
+      - {x: 17, y: -173.5}
+      - {x: 22, y: -173.5}
+      - {x: 24, y: -170.5}
+      - {x: 24, y: -165.5}
+      - {x: 21, y: -164.5}
+    - - {x: -58, y: -172.5}
+      - {x: -53, y: -172.5}
+      - {x: -48, y: -167.5}
+      - {x: -48, y: -147.5}
+      - {x: -55, y: -141.5}
+      - {x: -62, y: -141.5}
+      - {x: -64, y: -143.5}
+      - {x: -64, y: -155.5}
+      - {x: -64, y: -149.5}
+      - {x: -72, y: -141.5}
+      - {x: -80, y: -141.5}
+      - {x: -82, y: -142.5}
+      - {x: -86, y: -141.5}
+      - {x: -95, y: -141.5}
+      - {x: -97, y: -148.5}
+      - {x: -106, y: -144.5}
+      - {x: -111, y: -143.5}
+      - {x: -112, y: -146.5}
+      - {x: -112, y: -159.5}
+      - {x: -111, y: -164.5}
+      - {x: -108, y: -169.5}
+      - {x: -106, y: -171.5}
+      - {x: -102, y: -172.5}
+      - {x: -97, y: -170.5}
+      - {x: -92, y: -172.5}
+      - {x: -71, y: -172.5}
+      - {x: -66, y: -166.5}
+      - {x: -61, y: -171.5}
+    - - {x: 30, y: -163.5}
+      - {x: 29, y: -166.5}
+      - {x: 29, y: -171.5}
+      - {x: 31, y: -172.5}
+      - {x: 37, y: -172.5}
+      - {x: 42, y: -170.5}
+      - {x: 42, y: -166.5}
+      - {x: 39, y: -163.5}
+    - - {x: 91, y: -172.5}
+      - {x: 93, y: -170.5}
+      - {x: 93, y: -144.5}
+      - {x: 90, y: -142.5}
+      - {x: 80, y: -142.5}
+      - {x: 60, y: -145.5}
+      - {x: 59, y: -148.5}
+      - {x: 45, y: -155.5}
+      - {x: 44, y: -160.5}
+      - {x: 44, y: -166.5}
+      - {x: 48, y: -172.5}
+      - {x: 70, y: -172.5}
+      - {x: 77, y: -169.5}
+      - {x: 82, y: -172.5}
+    - - {x: -120, y: -155.5}
+      - {x: -124, y: -159.5}
+      - {x: -124, y: -170.5}
+      - {x: -122, y: -171.5}
+      - {x: -116, y: -171.5}
+      - {x: -112, y: -167.5}
+      - {x: -112, y: -159.5}
+      - {x: -114, y: -155.5}
+    - - {x: -139, y: -161.5}
+      - {x: -140, y: -163.5}
+      - {x: -140, y: -170.5}
+      - {x: -135, y: -170.5}
+      - {x: -131, y: -168.5}
+      - {x: -131, y: -164.5}
+      - {x: -132, y: -161.5}
+    - - {x: -153, y: -160.5}
+      - {x: -156, y: -163.5}
+      - {x: -156, y: -165.5}
+      - {x: -153, y: -168.5}
+      - {x: -151, y: -168.5}
+      - {x: -148, y: -165.5}
+      - {x: -148, y: -163.5}
+      - {x: -151, y: -160.5}
+    - - {x: 95, y: -148.5}
+      - {x: 93, y: -151.5}
+      - {x: 93, y: -164.5}
+      - {x: 96, y: -168.5}
+      - {x: 104, y: -168.5}
+      - {x: 109, y: -161.5}
+      - {x: 109, y: -151.5}
+      - {x: 104, y: -148.5}
+    - - {x: 78, y: -152.5}
+      - {x: 77, y: -150.5}
+      - {x: 73, y: -154.5}
+      - {x: 76, y: -163.5}
+      - {x: 78, y: -161.5}
+    - - {x: -79, y: -122.5}
+      - {x: -79, y: -135.5}
+      - {x: -72, y: -142.5}
+      - {x: -69, y: -142.5}
+      - {x: -62, y: -136.5}
+      - {x: -62, y: -122.5}
+    - - {x: 11, y: -127.5}
+      - {x: 11, y: -137.5}
+      - {x: 20, y: -141.5}
+      - {x: 26, y: -141.5}
+      - {x: 26, y: -134.5}
+      - {x: 24, y: -127.5}
+    - - {x: -156, y: -128.5}
+      - {x: -158, y: -130.5}
+      - {x: -158, y: -136.5}
+      - {x: -154, y: -140.5}
+      - {x: -146, y: -140.5}
+      - {x: -144, y: -137.5}
+      - {x: -144, y: -130.5}
+      - {x: -148, y: -128.5}
+    - - {x: -84, y: -125.5}
+      - {x: -126, y: -125.5}
+      - {x: -127, y: -129.5}
+      - {x: -127, y: -135.5}
+      - {x: -125, y: -139.5}
+      - {x: -113, y: -138.5}
+      - {x: -108, y: -140.5}
+      - {x: -83, y: -140.5}
+      - {x: -80, y: -137.5}
+      - {x: -80, y: -127.5}
+    - - {x: 40, y: -123.5}
+      - {x: 36, y: -123.5}
+      - {x: 26, y: -127.5}
+      - {x: 26, y: -138.5}
+      - {x: 29, y: -139.5}
+      - {x: 38, y: -139.5}
+      - {x: 42, y: -136.5}
+      - {x: 42, y: -124.5}
+    - - {x: 43, y: -126.5}
+      - {x: 43, y: -133.5}
+      - {x: 45, y: -139.5}
+      - {x: 58, y: -139.5}
+      - {x: 58, y: -126.5}
+    - - {x: 93, y: -126.5}
+      - {x: 90, y: -129.5}
+      - {x: 90, y: -135.5}
+      - {x: 96, y: -139.5}
+      - {x: 105, y: -139.5}
+      - {x: 107, y: -136.5}
+      - {x: 107, y: -126.5}
+    - - {x: 63, y: -127.5}
+      - {x: 60, y: -128.5}
+      - {x: 60, y: -133.5}
+      - {x: 61, y: -138.5}
+      - {x: 66, y: -138.5}
+      - {x: 73, y: -133.5}
+      - {x: 73, y: -130.5}
+      - {x: 70, y: -127.5}
+    - - {x: 87, y: -127.5}
+      - {x: 81, y: -126.5}
+      - {x: 78, y: -126.5}
+      - {x: 76, y: -127.5}
+      - {x: 76, y: -138.5}
+      - {x: 84, y: -138.5}
+      - {x: 89, y: -136.5}
+      - {x: 90, y: -134.5}
+      - {x: 90, y: -129.5}
+    - - {x: -138, y: -126.5}
+      - {x: -141, y: -128.5}
+      - {x: -141, y: -132.5}
+      - {x: -137, y: -137.5}
+      - {x: -133, y: -136.5}
+      - {x: -132, y: -132.5}
+      - {x: -132, y: -128.5}
+      - {x: -134, y: -126.5}
+    - - {x: 107, y: -125.5}
+      - {x: 107, y: -131.5}
+      - {x: 113, y: -137.5}
+      - {x: 116, y: -137.5}
+      - {x: 122, y: -131.5}
+      - {x: 122, y: -127.5}
+      - {x: 121, y: -125.5}
+    - - {x: 16, y: -95.5}
+      - {x: 12, y: -98.5}
+      - {x: 11, y: -99.5}
+      - {x: 11, y: -105.5}
+      - {x: 17, y: -108.5}
+      - {x: 25, y: -108.5}
+      - {x: 25, y: -95.5}
+    - - {x: 116, y: -107.5}
+      - {x: 122, y: -105.5}
+      - {x: 124, y: -103.5}
+      - {x: 124, y: -88.5}
+      - {x: 117, y: -83.5}
+      - {x: 112, y: -83.5}
+      - {x: 106, y: -88.5}
+      - {x: 100, y: -83.5}
+      - {x: 99, y: -83.5}
+      - {x: 76, y: -86.5}
+      - {x: 64, y: -90.5}
+      - {x: 57, y: -93.5}
+      - {x: 48, y: -91.5}
+      - {x: 42, y: -97.5}
+      - {x: 42, y: -104.5}
+      - {x: 43, y: -108.5}
+      - {x: 103, y: -108.5}
+    - - {x: -152, y: -94.5}
+      - {x: -158, y: -94.5}
+      - {x: -159, y: -95.5}
+      - {x: -159, y: -106.5}
+      - {x: -156, y: -107.5}
+      - {x: -151, y: -107.5}
+      - {x: -149, y: -106.5}
+      - {x: -147, y: -102.5}
+      - {x: -147, y: -98.5}
+    - - {x: -135, y: -93.5}
+      - {x: -142, y: -97.5}
+      - {x: -142, y: -103.5}
+      - {x: -138, y: -105.5}
+      - {x: -135, y: -105.5}
+      - {x: -133, y: -104.5}
+      - {x: -130, y: -100.5}
+      - {x: -130, y: -93.5}
+    - - {x: -79, y: -90.5}
+      - {x: -84, y: -87.5}
+      - {x: -112, y: -87.5}
+      - {x: -127, y: -88.5}
+      - {x: -128, y: -91.5}
+      - {x: -128, y: -100.5}
+      - {x: -122, y: -105.5}
+      - {x: -84, y: -105.5}
+      - {x: -81, y: -103.5}
+      - {x: -79, y: -97.5}
+    - - {x: 33, y: -94.5}
+      - {x: 27, y: -97.5}
+      - {x: 27, y: -103.5}
+      - {x: 30, y: -105.5}
+      - {x: 39, y: -105.5}
+      - {x: 42, y: -104.5}
+      - {x: 42, y: -98.5}
+      - {x: 40, y: -94.5}
+    - - {x: -154, y: -63.5}
+      - {x: -159, y: -69.5}
+      - {x: -159, y: -75.5}
+      - {x: -158, y: -77.5}
+      - {x: -147, y: -77.5}
+      - {x: -145, y: -76.5}
+      - {x: -145, y: -71.5}
+      - {x: -150, y: -63.5}
+    - - {x: 15, y: -65.5}
+      - {x: 13, y: -69.5}
+      - {x: 13, y: -74.5}
+      - {x: 20, y: -77.5}
+      - {x: 24, y: -77.5}
+      - {x: 25, y: -75.5}
+      - {x: 25, y: -71.5}
+      - {x: 19, y: -65.5}
+    - - {x: -59, y: -76.5}
+      - {x: -59, y: -54.5}
+      - {x: -60, y: -52.5}
+      - {x: -110, y: -52.5}
+      - {x: -125, y: -60.5}
+      - {x: -128, y: -63.5}
+      - {x: -128, y: -67.5}
+      - {x: -123, y: -76.5}
+      - {x: -84, y: -76.5}
+      - {x: -79, y: -72.5}
+      - {x: -79, y: -66.5}
+      - {x: -79, y: -72.5}
+      - {x: -78, y: -76.5}
+    - - {x: 96, y: -54.5}
+      - {x: 93, y: -55.5}
+      - {x: 93, y: -66.5}
+      - {x: 94, y: -71.5}
+      - {x: 97, y: -74.5}
+      - {x: 126, y: -74.5}
+      - {x: 127, y: -73.5}
+      - {x: 127, y: -58.5}
+      - {x: 116, y: -54.5}
+    - - {x: -136, y: -62.5}
+      - {x: -140, y: -64.5}
+      - {x: -140, y: -69.5}
+      - {x: -139, y: -73.5}
+      - {x: -133, y: -73.5}
+      - {x: -131, y: -71.5}
+      - {x: -131, y: -66.5}
+      - {x: -133, y: -62.5}
+    - - {x: 32, y: -64.5}
+      - {x: 29, y: -66.5}
+      - {x: 29, y: -72.5}
+      - {x: 32, y: -73.5}
+      - {x: 39, y: -73.5}
+      - {x: 39, y: -68.5}
+      - {x: 37, y: -64.5}
+    - - {x: 57, y: -60.5}
+      - {x: 51, y: -59.5}
+      - {x: 48, y: -59.5}
+      - {x: 44, y: -64.5}
+      - {x: 44, y: -70.5}
+      - {x: 49, y: -73.5}
+      - {x: 55, y: -73.5}
+      - {x: 58, y: -67.5}
+      - {x: 58, y: -62.5}
+    - - {x: 59, y: -56.5}
+      - {x: 58, y: -57.5}
+      - {x: 58, y: -73.5}
+      - {x: 91, y: -73.5}
+      - {x: 92, y: -71.5}
+      - {x: 92, y: -62.5}
+      - {x: 90, y: -56.5}
+    - - {x: 13, y: -29.5}
+      - {x: 11, y: -31.5}
+      - {x: 10, y: -38.5}
+      - {x: 10, y: -46.5}
+      - {x: 23, y: -46.5}
+      - {x: 26, y: -43.5}
+      - {x: 26, y: -34.5}
+      - {x: 25, y: -29.5}
+    - - {x: -155, y: -32.5}
+      - {x: -158, y: -34.5}
+      - {x: -158, y: -43.5}
+      - {x: -155, y: -44.5}
+      - {x: -151, y: -44.5}
+      - {x: -146, y: -39.5}
+      - {x: -146, y: -35.5}
+      - {x: -147, y: -32.5}
+    - - {x: 110, y: -16.5}
+      - {x: 92, y: -16.5}
+      - {x: 80, y: -18.5}
+      - {x: 70, y: -26.5}
+      - {x: 58, y: -24.5}
+      - {x: 49, y: -27.5}
+      - {x: 42, y: -35.5}
+      - {x: 42, y: -39.5}
+      - {x: 48, y: -43.5}
+      - {x: 49, y: -43.5}
+      - {x: 54, y: -42.5}
+      - {x: 56, y: -40.5}
+      - {x: 62, y: -43.5}
+      - {x: 118, y: -43.5}
+      - {x: 123, y: -38.5}
+      - {x: 123, y: -22.5}
+      - {x: 122, y: -20.5}
+    - - {x: 28, y: -32.5}
+      - {x: 28, y: -39.5}
+      - {x: 33, y: -42.5}
+      - {x: 39, y: -42.5}
+      - {x: 40, y: -39.5}
+      - {x: 40, y: -33.5}
+      - {x: 35, y: -32.5}
+    - - {x: -142, y: -29.5}
+      - {x: -143, y: -30.5}
+      - {x: -143, y: -36.5}
+      - {x: -137, y: -41.5}
+      - {x: -136, y: -41.5}
+      - {x: -130, y: -36.5}
+      - {x: -130, y: -32.5}
+      - {x: -131, y: -29.5}
+    - - {x: -120, y: -26.5}
+      - {x: -125, y: -26.5}
+      - {x: -127, y: -27.5}
+      - {x: -127, y: -34.5}
+      - {x: -126, y: -37.5}
+      - {x: -123, y: -41.5}
+      - {x: -119, y: -41.5}
+      - {x: -115, y: -40.5}
+      - {x: -112, y: -35.5}
+      - {x: -112, y: -31.5}
+    - - {x: -62, y: -38.5}
+      - {x: -62, y: -18.5}
+      - {x: -88, y: -18.5}
+      - {x: -95, y: -20.5}
+      - {x: -104, y: -22.5}
+      - {x: -111, y: -20.5}
+      - {x: -112, y: -23.5}
+      - {x: -112, y: -35.5}
+      - {x: -106, y: -41.5}
+      - {x: -102, y: -41.5}
+      - {x: -97, y: -36.5}
+      - {x: -91, y: -41.5}
+      - {x: -69, y: -41.5}
+    - - {x: 129, y: -20.5}
+      - {x: 123, y: -23.5}
+      - {x: 123, y: -36.5}
+      - {x: 128, y: -40.5}
+      - {x: 152, y: -40.5}
+      - {x: 156, y: -34.5}
+      - {x: 156, y: -20.5}
+    - - {x: 11, y: 2.5}
+      - {x: 11, y: -12.5}
+      - {x: 12, y: -13.5}
+      - {x: 20, y: -13.5}
+      - {x: 25, y: -9.5}
+      - {x: 25, y: 2.5}
+    - - {x: -155, y: 1.5}
+      - {x: -158, y: -1.5}
+      - {x: -158, y: -8.5}
+      - {x: -157, y: -11.5}
+      - {x: -147, y: -11.5}
+      - {x: -146, y: -9.5}
+      - {x: -146, y: -2.5}
+      - {x: -149, y: 1.5}
+    - - {x: -141, y: 0.5}
+      - {x: -142, y: -1.5}
+      - {x: -142, y: -7.5}
+      - {x: -136, y: -11.5}
+      - {x: -132, y: -11.5}
+      - {x: -129, y: -7.5}
+      - {x: -129, y: -1.5}
+      - {x: -133, y: 0.5}
+    - - {x: -126, y: 2.5}
+      - {x: -128, y: -2.5}
+      - {x: -128, y: -5.5}
+      - {x: -121, y: -11.5}
+      - {x: -115, y: -11.5}
+      - {x: -112, y: -10.5}
+      - {x: -111, y: -7.5}
+      - {x: -111, y: -1.5}
+      - {x: -113, y: 2.5}
+    - - {x: 29, y: -3.5}
+      - {x: 29, y: -7.5}
+      - {x: 33, y: -11.5}
+      - {x: 40, y: -8.5}
+      - {x: 40, y: -4.5}
+      - {x: 36, y: -0.5}
+      - {x: 32, y: -0.5}
+    - - {x: 48, y: 2.5}
+      - {x: 44, y: -2.5}
+      - {x: 44, y: -7.5}
+      - {x: 47, y: -11.5}
+      - {x: 52, y: -11.5}
+      - {x: 57, y: -9.5}
+      - {x: 57, y: 0.5}
+      - {x: 53, y: 2.5}
+    - - {x: 63, y: 8.5}
+      - {x: 60, y: 3.5}
+      - {x: 60, y: -6.5}
+      - {x: 63, y: -11.5}
+      - {x: 68, y: -11.5}
+      - {x: 73, y: -9.5}
+      - {x: 73, y: 5.5}
+      - {x: 67, y: 8.5}
+    - - {x: 82, y: 13.5}
+      - {x: 78, y: 12.5}
+      - {x: 75, y: 7.5}
+      - {x: 75, y: -10.5}
+      - {x: 78, y: -11.5}
+      - {x: 90, y: -11.5}
+      - {x: 90, y: 12.5}
+      - {x: 88, y: 13.5}
+    - - {x: 108, y: 36.5}
+      - {x: 104, y: 39.5}
+      - {x: 96, y: 39.5}
+      - {x: 91, y: 37.5}
+      - {x: 83, y: 39.5}
+      - {x: 77, y: 37.5}
+      - {x: 64, y: 35.5}
+      - {x: 48, y: 34.5}
+      - {x: 41, y: 29.5}
+      - {x: 41, y: 25.5}
+      - {x: 47, y: 20.5}
+      - {x: 53, y: 19.5}
+      - {x: 62, y: 15.5}
+      - {x: 74, y: 18.5}
+      - {x: 77, y: 15.5}
+      - {x: 87, y: 16.5}
+      - {x: 93, y: 13.5}
+      - {x: 90, y: 8.5}
+      - {x: 89, y: -8.5}
+      - {x: 95, y: -11.5}
+      - {x: 104, y: -11.5}
+      - {x: 106, y: -8.5}
+      - {x: 108, y: 8.5}
+    - - {x: 107, y: -10.5}
+      - {x: 108, y: -11.5}
+      - {x: 119, y: -11.5}
+      - {x: 122, y: -10.5}
+      - {x: 122, y: 12.5}
+      - {x: 121, y: 17.5}
+      - {x: 117, y: 19.5}
+      - {x: 111, y: 19.5}
+      - {x: 107, y: 18.5}
+    - - {x: -110, y: 5.5}
+      - {x: -111, y: 3.5}
+      - {x: -111, y: -9.5}
+      - {x: -110, y: -10.5}
+      - {x: -100, y: -10.5}
+      - {x: -96, y: -8.5}
+      - {x: -96, y: 3.5}
+      - {x: -101, y: 5.5}
+    - - {x: -95, y: 10.5}
+      - {x: -95, y: -10.5}
+      - {x: -84, y: -10.5}
+      - {x: -80, y: -4.5}
+      - {x: -80, y: 10.5}
+    - - {x: -76, y: 15.5}
+      - {x: -79, y: 13.5}
+      - {x: -79, y: 2.5}
+      - {x: -75, y: -8.5}
+      - {x: -73, y: -10.5}
+      - {x: -68, y: -10.5}
+      - {x: -64, y: -2.5}
+      - {x: -64, y: 14.5}
+      - {x: -68, y: 15.5}
+    - - {x: -63, y: 15.5}
+      - {x: -63, y: -10.5}
+      - {x: -52, y: -10.5}
+      - {x: -48, y: 1.5}
+      - {x: -48, y: 14.5}
+      - {x: -52, y: 15.5}
+    - - {x: 16, y: 30.5}
+      - {x: 13, y: 29.5}
+      - {x: 13, y: 20.5}
+      - {x: 14, y: 19.5}
+      - {x: 22, y: 19.5}
+      - {x: 26, y: 22.5}
+      - {x: 26, y: 27.5}
+      - {x: 22, y: 30.5}
+    - - {x: -155, y: 32.5}
+      - {x: -158, y: 27.5}
+      - {x: -158, y: 23.5}
+      - {x: -157, y: 20.5}
+      - {x: -148, y: 20.5}
+      - {x: -145, y: 21.5}
+      - {x: -145, y: 29.5}
+      - {x: -149, y: 32.5}
+    - - {x: -124, y: 33.5}
+      - {x: -127, y: 32.5}
+      - {x: -127, y: 26.5}
+      - {x: -124, y: 21.5}
+      - {x: -118, y: 21.5}
+      - {x: -112, y: 25.5}
+      - {x: -112, y: 31.5}
+      - {x: -113, y: 33.5}
+    - - {x: -110, y: 35.5}
+      - {x: -111, y: 31.5}
+      - {x: -111, y: 26.5}
+      - {x: -106, y: 21.5}
+      - {x: -101, y: 21.5}
+      - {x: -96, y: 25.5}
+      - {x: -96, y: 32.5}
+      - {x: -98, y: 35.5}
+    - - {x: -94, y: 36.5}
+      - {x: -94, y: 28.5}
+      - {x: -91, y: 21.5}
+      - {x: -82, y: 21.5}
+      - {x: -79, y: 26.5}
+      - {x: -79, y: 34.5}
+      - {x: -85, y: 36.5}
+    - - {x: 29, y: 32.5}
+      - {x: 28, y: 27.5}
+      - {x: 28, y: 23.5}
+      - {x: 30, y: 22.5}
+      - {x: 33, y: 21.5}
+      - {x: 36, y: 21.5}
+      - {x: 40, y: 24.5}
+      - {x: 40, y: 29.5}
+      - {x: 39, y: 32.5}
+    - - {x: -139, y: 31.5}
+      - {x: -141, y: 27.5}
+      - {x: -141, y: 24.5}
+      - {x: -137, y: 22.5}
+      - {x: -132, y: 22.5}
+      - {x: -130, y: 26.5}
+      - {x: -130, y: 29.5}
+      - {x: -134, y: 31.5}
+    - - {x: 71, y: 73.5}
+      - {x: 64, y: 73.5}
+      - {x: 46, y: 70.5}
+      - {x: 42, y: 63.5}
+      - {x: 42, y: 49.5}
+      - {x: 43, y: 47.5}
+      - {x: 53, y: 47.5}
+      - {x: 64, y: 49.5}
+      - {x: 68, y: 47.5}
+      - {x: 81, y: 47.5}
+      - {x: 81, y: 67.5}
+    - - {x: 88, y: 78.5}
+      - {x: 82, y: 72.5}
+      - {x: 82, y: 50.5}
+      - {x: 85, y: 48.5}
+      - {x: 102, y: 48.5}
+      - {x: 102, y: 70.5}
+      - {x: 97, y: 78.5}
+    - - {x: 15, y: 53.5}
+      - {x: 15, y: 52.5}
+      - {x: 17, y: 50.5}
+      - {x: 18, y: 50.5}
+      - {x: 21, y: 53.5}
+      - {x: 21, y: 55.5}
+      - {x: 18, y: 56.5}
+    - - {x: 30, y: 63.5}
+      - {x: 29, y: 62.5}
+      - {x: 29, y: 50.5}
+      - {x: 39, y: 50.5}
+      - {x: 41, y: 56.5}
+      - {x: 41, y: 62.5}
+      - {x: 39, y: 63.5}
+    - - {x: -155, y: 65.5}
+      - {x: -157, y: 63.5}
+      - {x: -159, y: 59.5}
+      - {x: -159, y: 52.5}
+      - {x: -146, y: 52.5}
+      - {x: -146, y: 59.5}
+      - {x: -149, y: 65.5}
+    - - {x: -141, y: 62.5}
+      - {x: -143, y: 61.5}
+      - {x: -143, y: 53.5}
+      - {x: -128, y: 53.5}
+      - {x: -128, y: 61.5}
+      - {x: -130, y: 62.5}
+    - - {x: -81, y: 55.5}
+      - {x: -73, y: 53.5}
+      - {x: -72, y: 53.5}
+      - {x: -68, y: 54.5}
+      - {x: -51, y: 54.5}
+      - {x: -47, y: 61.5}
+      - {x: -47, y: 73.5}
+      - {x: -51, y: 78.5}
+      - {x: -57, y: 78.5}
+      - {x: -65, y: 75.5}
+      - {x: -66, y: 78.5}
+      - {x: -71, y: 78.5}
+      - {x: -80, y: 75.5}
+      - {x: -94, y: 74.5}
+      - {x: -114, y: 72.5}
+      - {x: -126, y: 66.5}
+      - {x: -128, y: 62.5}
+      - {x: -128, y: 57.5}
+      - {x: -122, y: 53.5}
+      - {x: -118, y: 53.5}
+      - {x: -113, y: 56.5}
+      - {x: -107, y: 53.5}
+      - {x: -82, y: 53.5}
+    - - {x: 20, y: 57.5}
+      - {x: 20, y: 56.5}
+      - {x: 22, y: 54.5}
+      - {x: 23, y: 54.5}
+      - {x: 26, y: 57.5}
+      - {x: 26, y: 59.5}
+      - {x: 23, y: 60.5}
+    - - {x: 19, y: 65.5}
+      - {x: 12, y: 60.5}
+      - {x: 12, y: 57.5}
+      - {x: 13, y: 55.5}
+      - {x: 16, y: 55.5}
+      - {x: 22, y: 61.5}
+      - {x: 22, y: 64.5}
+    - - {x: -78, y: 67.5}
+      - {x: -79, y: 67.5}
+      - {x: -78, y: 66.5}
+      - {x: -80, y: 65.5}
+    - - {x: -62, y: 68.5}
+      - {x: -63, y: 68.5}
+      - {x: -62, y: 67.5}
+      - {x: -64, y: 66.5}
+    - - {x: -149, y: 95.5}
+      - {x: -154, y: 95.5}
+      - {x: -157, y: 94.5}
+      - {x: -157, y: 86.5}
+      - {x: -156, y: 84.5}
+      - {x: -148, y: 84.5}
+      - {x: -146, y: 88.5}
+      - {x: -146, y: 92.5}
+    - - {x: -142, y: 97.5}
+      - {x: -142, y: 90.5}
+      - {x: -136, y: 84.5}
+      - {x: -134, y: 84.5}
+      - {x: -130, y: 89.5}
+      - {x: -130, y: 97.5}
+    - - {x: -125, y: 101.5}
+      - {x: -127, y: 97.5}
+      - {x: -127, y: 88.5}
+      - {x: -123, y: 84.5}
+      - {x: -115, y: 84.5}
+      - {x: -111, y: 89.5}
+      - {x: -111, y: 95.5}
+      - {x: -118, y: 101.5}
+    - - {x: -112, y: 105.5}
+      - {x: -112, y: 91.5}
+      - {x: -105, y: 84.5}
+      - {x: -103, y: 84.5}
+      - {x: -95, y: 87.5}
+      - {x: -95, y: 103.5}
+      - {x: -97, y: 105.5}
+    - - {x: -52, y: 84.5}
+      - {x: -47, y: 87.5}
+      - {x: -47, y: 100.5}
+      - {x: -49, y: 106.5}
+      - {x: -67, y: 109.5}
+      - {x: -74, y: 109.5}
+      - {x: -81, y: 104.5}
+      - {x: -90, y: 108.5}
+      - {x: -93, y: 107.5}
+      - {x: -95, y: 105.5}
+      - {x: -95, y: 90.5}
+      - {x: -92, y: 85.5}
+      - {x: -90, y: 84.5}
+      - {x: -69, y: 84.5}
+      - {x: -67, y: 85.5}
+      - {x: -57, y: 84.5}
+    - - {x: 15, y: 96.5}
+      - {x: 14, y: 94.5}
+      - {x: 12, y: 91.5}
+      - {x: 12, y: 87.5}
+      - {x: 15, y: 85.5}
+      - {x: 20, y: 85.5}
+      - {x: 25, y: 87.5}
+      - {x: 25, y: 91.5}
+      - {x: 19, y: 96.5}
+    - - {x: 28, y: 96.5}
+      - {x: 27, y: 94.5}
+      - {x: 27, y: 91.5}
+      - {x: 32, y: 85.5}
+      - {x: 38, y: 85.5}
+      - {x: 38, y: 93.5}
+      - {x: 33, y: 96.5}
+    - - {x: 57, y: 101.5}
+      - {x: 48, y: 101.5}
+      - {x: 43, y: 99.5}
+      - {x: 43, y: 92.5}
+      - {x: 48, y: 85.5}
+      - {x: 53, y: 85.5}
+      - {x: 57, y: 91.5}
+    - - {x: 91, y: 96.5}
+      - {x: 91, y: 92.5}
+      - {x: 96, y: 85.5}
+      - {x: 103, y: 85.5}
+      - {x: 110, y: 88.5}
+      - {x: 110, y: 105.5}
+      - {x: 106, y: 111.5}
+      - {x: 95, y: 111.5}
+      - {x: 93, y: 109.5}
+      - {x: 89, y: 111.5}
+      - {x: 61, y: 111.5}
+      - {x: 59, y: 110.5}
+      - {x: 57, y: 104.5}
+      - {x: 57, y: 88.5}
+      - {x: 61, y: 85.5}
+      - {x: 84, y: 85.5}
+      - {x: 86, y: 87.5}
+      - {x: 91, y: 91.5}
+    - - {x: 74, y: 134.5}
+      - {x: 74, y: 123.5}
+      - {x: 79, y: 117.5}
+      - {x: 86, y: 116.5}
+      - {x: 103, y: 116.5}
+      - {x: 108, y: 120.5}
+      - {x: 108, y: 139.5}
+      - {x: 84, y: 139.5}
+    - - {x: -153, y: 125.5}
+      - {x: -157, y: 123.5}
+      - {x: -157, y: 119.5}
+      - {x: -156, y: 117.5}
+      - {x: -152, y: 117.5}
+      - {x: -149, y: 118.5}
+      - {x: -149, y: 123.5}
+      - {x: -150, y: 125.5}
+    - - {x: -76, y: 140.5}
+      - {x: -79, y: 136.5}
+      - {x: -79, y: 123.5}
+      - {x: -76, y: 117.5}
+      - {x: -69, y: 117.5}
+      - {x: -64, y: 123.5}
+      - {x: -64, y: 136.5}
+      - {x: -69, y: 140.5}
+    - - {x: 14, y: 125.5}
+      - {x: 13, y: 122.5}
+      - {x: 13, y: 118.5}
+      - {x: 16, y: 117.5}
+      - {x: 20, y: 117.5}
+      - {x: 23, y: 120.5}
+      - {x: 23, y: 121.5}
+      - {x: 19, y: 125.5}
+    - - {x: 27, y: 122.5}
+      - {x: 31, y: 117.5}
+      - {x: 35, y: 117.5}
+      - {x: 40, y: 120.5}
+      - {x: 40, y: 123.5}
+      - {x: 38, y: 126.5}
+      - {x: 30, y: 126.5}
+      - {x: 27, y: 123.5}
+    - - {x: 42, y: 129.5}
+      - {x: 42, y: 123.5}
+      - {x: 47, y: 117.5}
+      - {x: 52, y: 117.5}
+      - {x: 57, y: 123.5}
+      - {x: 57, y: 127.5}
+      - {x: 56, y: 129.5}
+    - - {x: 57, y: 119.5}
+      - {x: 59, y: 117.5}
+      - {x: 70, y: 117.5}
+      - {x: 74, y: 119.5}
+      - {x: 74, y: 127.5}
+      - {x: 72, y: 132.5}
+      - {x: 58, y: 132.5}
+      - {x: 57, y: 131.5}
+    - - {x: -140, y: 126.5}
+      - {x: -141, y: 124.5}
+      - {x: -141, y: 120.5}
+      - {x: -137, y: 118.5}
+      - {x: -133, y: 118.5}
+      - {x: -132, y: 120.5}
+      - {x: -132, y: 124.5}
+      - {x: -136, y: 126.5}
+    - - {x: -126, y: 127.5}
+      - {x: -126, y: 121.5}
+      - {x: -121, y: 118.5}
+      - {x: -115, y: 118.5}
+      - {x: -113, y: 122.5}
+      - {x: -113, y: 127.5}
+    - - {x: -105, y: 130.5}
+      - {x: -111, y: 125.5}
+      - {x: -111, y: 120.5}
+      - {x: -107, y: 118.5}
+      - {x: -99, y: 118.5}
+      - {x: -97, y: 122.5}
+      - {x: -97, y: 125.5}
+      - {x: -101, y: 130.5}
+    - - {x: -91, y: 134.5}
+      - {x: -95, y: 133.5}
+      - {x: -95, y: 123.5}
+      - {x: -93, y: 118.5}
+      - {x: -85, y: 118.5}
+      - {x: -81, y: 122.5}
+      - {x: -81, y: 127.5}
+      - {x: -85, y: 134.5}
+    - - {x: -59, y: 138.5}
+      - {x: -62, y: 133.5}
+      - {x: -63, y: 129.5}
+      - {x: -63, y: 125.5}
+      - {x: -59, y: 118.5}
+      - {x: -51, y: 118.5}
+      - {x: -49, y: 119.5}
+      - {x: -48, y: 123.5}
+      - {x: -48, y: 136.5}
+      - {x: -52, y: 138.5}
+    - - {x: 91, y: 151.5}
+      - {x: 92, y: 156.5}
+      - {x: 92, y: 165.5}
+      - {x: 85, y: 171.5}
+      - {x: 74, y: 171.5}
+      - {x: 50, y: 165.5}
+      - {x: 42, y: 159.5}
+      - {x: 42, y: 156.5}
+      - {x: 48, y: 148.5}
+      - {x: 67, y: 147.5}
+      - {x: 87, y: 147.5}
+    - - {x: -81, y: 170.5}
+      - {x: -87, y: 170.5}
+      - {x: -96, y: 167.5}
+      - {x: -96, y: 160.5}
+      - {x: -91, y: 148.5}
+      - {x: -86, y: 148.5}
+      - {x: -83, y: 151.5}
+      - {x: -79, y: 156.5}
+      - {x: -79, y: 165.5}
+    - - {x: -73, y: 164.5}
+      - {x: -76, y: 163.5}
+      - {x: -76, y: 151.5}
+      - {x: -74, y: 148.5}
+      - {x: -65, y: 148.5}
+      - {x: -61, y: 150.5}
+      - {x: -61, y: 162.5}
+      - {x: -64, y: 164.5}
+    - - {x: 21, y: 159.5}
+      - {x: 16, y: 159.5}
+      - {x: 13, y: 155.5}
+      - {x: 12, y: 153.5}
+      - {x: 12, y: 148.5}
+      - {x: 21, y: 148.5}
+      - {x: 25, y: 152.5}
+      - {x: 25, y: 158.5}
+    - - {x: -152, y: 158.5}
+      - {x: -157, y: 156.5}
+      - {x: -157, y: 149.5}
+      - {x: -151, y: 149.5}
+      - {x: -146, y: 152.5}
+      - {x: -146, y: 156.5}
+      - {x: -147, y: 158.5}
+    - - {x: -124, y: 161.5}
+      - {x: -125, y: 158.5}
+      - {x: -125, y: 152.5}
+      - {x: -123, y: 149.5}
+      - {x: -118, y: 149.5}
+      - {x: -115, y: 153.5}
+      - {x: -115, y: 159.5}
+      - {x: -116, y: 161.5}
+    - - {x: -102, y: 166.5}
+      - {x: -112, y: 162.5}
+      - {x: -112, y: 158.5}
+      - {x: -110, y: 151.5}
+      - {x: -105, y: 149.5}
+      - {x: -99, y: 149.5}
+      - {x: -95, y: 155.5}
+      - {x: -95, y: 160.5}
+      - {x: -98, y: 166.5}
+    - - {x: 98, y: 168.5}
+      - {x: 94, y: 163.5}
+      - {x: 94, y: 151.5}
+      - {x: 100, y: 149.5}
+      - {x: 111, y: 149.5}
+      - {x: 114, y: 153.5}
+      - {x: 114, y: 161.5}
+      - {x: 111, y: 168.5}
+    - - {x: -139, y: 152.5}
+      - {x: -138, y: 150.5}
+      - {x: -132, y: 150.5}
+      - {x: -132, y: 156.5}
+      - {x: -133, y: 158.5}
+      - {x: -136, y: 158.5}
+      - {x: -139, y: 157.5}
+    - - {x: 28, y: 154.5}
+      - {x: 31, y: 150.5}
+      - {x: 37, y: 150.5}
+      - {x: 40, y: 151.5}
+      - {x: 40, y: 155.5}
+      - {x: 38, y: 159.5}
+      - {x: 31, y: 159.5}
+      - {x: 28, y: 156.5}
+    - - {x: -63, y: 195.5}
+      - {x: -74, y: 196.5}
+      - {x: -93, y: 196.5}
+      - {x: -101, y: 195.5}
+      - {x: -112, y: 194.5}
+      - {x: -113, y: 191.5}
+      - {x: -113, y: 186.5}
+      - {x: -110, y: 179.5}
+      - {x: -92, y: 179.5}
+      - {x: -79, y: 177.5}
+      - {x: -67, y: 177.5}
+      - {x: -62, y: 183.5}
+      - {x: -62, y: 192.5}
+    - - {x: -58, y: 194.5}
+      - {x: -61, y: 191.5}
+      - {x: -61, y: 181.5}
+      - {x: -59, y: 178.5}
+      - {x: -49, y: 178.5}
+      - {x: -45, y: 180.5}
+      - {x: -45, y: 192.5}
+      - {x: -50, y: 194.5}
+    - - {x: -157, y: 190.5}
+      - {x: -158, y: 186.5}
+      - {x: -158, y: 181.5}
+      - {x: -155, y: 180.5}
+      - {x: -150, y: 180.5}
+      - {x: -145, y: 183.5}
+      - {x: -145, y: 187.5}
+      - {x: -146, y: 190.5}
+    - - {x: 17, y: 189.5}
+      - {x: 14, y: 188.5}
+      - {x: 14, y: 184.5}
+      - {x: 17, y: 180.5}
+      - {x: 23, y: 180.5}
+      - {x: 24, y: 183.5}
+      - {x: 24, y: 187.5}
+      - {x: 22, y: 189.5}
+    - - {x: 90, y: 201.5}
+      - {x: 90, y: 183.5}
+      - {x: 95, y: 180.5}
+      - {x: 102, y: 180.5}
+      - {x: 107, y: 185.5}
+      - {x: 107, y: 201.5}
+    - - {x: -139, y: 189.5}
+      - {x: -141, y: 187.5}
+      - {x: -141, y: 185.5}
+      - {x: -137, y: 181.5}
+      - {x: -133, y: 182.5}
+      - {x: -131, y: 185.5}
+      - {x: -131, y: 187.5}
+      - {x: -133, y: 189.5}
+    - - {x: -126, y: 186.5}
+      - {x: -123, y: 181.5}
+      - {x: -118, y: 181.5}
+      - {x: -113, y: 184.5}
+      - {x: -113, y: 190.5}
+      - {x: -114, y: 193.5}
+      - {x: -124, y: 193.5}
+      - {x: -126, y: 192.5}
+    - - {x: 62, y: 195.5}
+      - {x: 59, y: 191.5}
+      - {x: 59, y: 183.5}
+      - {x: 63, y: 181.5}
+      - {x: 72, y: 181.5}
+      - {x: 73, y: 183.5}
+      - {x: 73, y: 194.5}
+      - {x: 70, y: 195.5}
+    - - {x: 75, y: 198.5}
+      - {x: 74, y: 196.5}
+      - {x: 74, y: 184.5}
+      - {x: 77, y: 181.5}
+      - {x: 84, y: 181.5}
+      - {x: 90, y: 185.5}
+      - {x: 90, y: 194.5}
+      - {x: 85, y: 198.5}
+    - - {x: 32, y: 191.5}
+      - {x: 30, y: 189.5}
+      - {x: 30, y: 185.5}
+      - {x: 34, y: 182.5}
+      - {x: 37, y: 182.5}
+      - {x: 38, y: 184.5}
+      - {x: 38, y: 189.5}
+      - {x: 34, y: 191.5}
+    - - {x: 48, y: 193.5}
+      - {x: 45, y: 192.5}
+      - {x: 45, y: 186.5}
+      - {x: 46, y: 183.5}
+      - {x: 49, y: 182.5}
+      - {x: 56, y: 182.5}
+      - {x: 57, y: 185.5}
+      - {x: 57, y: 189.5}
+      - {x: 52, y: 193.5}
+    - - {x: -155, y: 223.5}
+      - {x: -156, y: 222.5}
+      - {x: -158, y: 218.5}
+      - {x: -158, y: 216.5}
+      - {x: -151, y: 211.5}
+      - {x: -149, y: 211.5}
+      - {x: -146, y: 212.5}
+      - {x: -146, y: 220.5}
+      - {x: -147, y: 223.5}
+    - - {x: -78, y: 230.5}
+      - {x: -80, y: 231.5}
+      - {x: -97, y: 231.5}
+      - {x: -102, y: 230.5}
+      - {x: -114, y: 227.5}
+      - {x: -124, y: 223.5}
+      - {x: -128, y: 221.5}
+      - {x: -128, y: 216.5}
+      - {x: -127, y: 212.5}
+      - {x: -113, y: 214.5}
+      - {x: -108, y: 212.5}
+      - {x: -84, y: 212.5}
+      - {x: -79, y: 217.5}
+      - {x: -78, y: 221.5}
+    - - {x: -2, y: 238.5}
+      - {x: -2, y: 212.5}
+      - {x: 4, y: 212.5}
+      - {x: 9, y: 214.5}
+      - {x: 9, y: 224.5}
+      - {x: 5, y: 238.5}
+    - - {x: 19, y: 238.5}
+      - {x: 15, y: 238.5}
+      - {x: 12, y: 230.5}
+      - {x: 12, y: 215.5}
+      - {x: 15, y: 212.5}
+      - {x: 23, y: 212.5}
+      - {x: 23, y: 228.5}
+      - {x: 21, y: 237.5}
+    - - {x: 53, y: 238.5}
+      - {x: 28, y: 238.5}
+      - {x: 27, y: 232.5}
+      - {x: 27, y: 214.5}
+      - {x: 33, y: 212.5}
+      - {x: 40, y: 213.5}
+      - {x: 44, y: 212.5}
+      - {x: 51, y: 212.5}
+      - {x: 57, y: 216.5}
+      - {x: 57, y: 229.5}
+    - - {x: 98, y: 212.5}
+      - {x: 104, y: 215.5}
+      - {x: 110, y: 212.5}
+      - {x: 114, y: 212.5}
+      - {x: 120, y: 215.5}
+      - {x: 122, y: 217.5}
+      - {x: 122, y: 232.5}
+      - {x: 121, y: 236.5}
+      - {x: 118, y: 241.5}
+      - {x: 112, y: 242.5}
+      - {x: 107, y: 242.5}
+      - {x: 106, y: 239.5}
+      - {x: 102, y: 241.5}
+      - {x: 97, y: 242.5}
+      - {x: 91, y: 242.5}
+      - {x: 89, y: 239.5}
+      - {x: 88, y: 233.5}
+      - {x: 84, y: 239.5}
+      - {x: 75, y: 239.5}
+      - {x: 73, y: 236.5}
+      - {x: 69, y: 239.5}
+      - {x: 62, y: 236.5}
+      - {x: 58, y: 228.5}
+      - {x: 58, y: 219.5}
+      - {x: 64, y: 212.5}
+      - {x: 69, y: 212.5}
+      - {x: 70, y: 213.5}
+      - {x: 74, y: 212.5}
+      - {x: 82, y: 212.5}
+      - {x: 88, y: 215.5}
+      - {x: 94, y: 212.5}
+    - - {x: -144, y: 216.5}
+      - {x: -141, y: 214.5}
+      - {x: -134, y: 214.5}
+      - {x: -129, y: 216.5}
+      - {x: -129, y: 223.5}
+      - {x: -143, y: 223.5}
+      - {x: -144, y: 221.5}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
