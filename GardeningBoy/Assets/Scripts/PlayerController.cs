@@ -11,10 +11,10 @@ public class PlayerController : MonoBehaviour {
 	public float jumpForcemin = 6f;
     public float jumpPushForce = 10f;
     public Transform groundCheck;
-    public float distance = 1f;
+    public float distance = 0.5f;
     public LayerMask whatIsGround;
     public LayerMask whatIsWall;
-
+    public float wallSlidingSpeedMax = 2.5f;
     [HideInInspector]
     public bool lookingRight = true;
 
@@ -22,11 +22,12 @@ public class PlayerController : MonoBehaviour {
     private Rigidbody2D rb2d;
     private Animator anim;
     private bool isGrounded = false;
-    private bool touchingWall = false;
+    private bool wallSliding = false;
     private bool jump = false;
 	private bool jumpStop = false;
     private bool moving = false;
 
+    private GameObject[] plants;
 	// Use this for initialization
 	void Start () {
         //Zuweisung der Components
@@ -47,13 +48,21 @@ public class PlayerController : MonoBehaviour {
 		if (Input.GetButtonDown("Jump") && isGrounded)
 			jump = true;
 		if (Input.GetButtonUp("Jump") && !isGrounded)
-			//jumpStop = true;
+			jumpStop = true;
 
         //WALLJUMP
-        if (Input.GetButtonDown("Jump") && !hit.collider && !isGrounded)
+        if (rb2d.velocity.y < 0 && hit.collider && !isGrounded)
         {
-            rb2d.AddForce(new Vector2(jumpPushForce, jumpForcemin));
+            wallSliding = true;
+            if(rb2d.velocity.y < -wallSlidingSpeedMax){
+                rb2d.velocity = new Vector2(rb2d.velocity.x,-wallSlidingSpeedMax);
+            }
+
         }
+
+
+        
+
 	}
 
     //fixed Timestep
@@ -77,12 +86,7 @@ public class PlayerController : MonoBehaviour {
         if ((hor > 0 && !lookingRight) || (hor < 0 && lookingRight))
             Flip();
 
-		/*
-        if (jump)
-        {
-            rb2d.AddForce(new Vector2(0, jumpForce));
-            jump = false;
-        }*/
+
 		if (jump) {
 			rb2d.velocity = new Vector2 (rb2d.velocity.x, jumpForcemax);
 			jump = false;
@@ -93,6 +97,10 @@ public class PlayerController : MonoBehaviour {
 			}
 			jumpStop = false;
 		}
+
+        if(wallSliding && jump){
+            //JUMP AWAY FROM WALL
+        }
     }
 
     public void Flip()
@@ -108,21 +116,29 @@ public class PlayerController : MonoBehaviour {
     void OnTriggerEnter2D(Collider2D other)
     {
         Vector3 temp = new Vector3(other.transform.position.x, other.transform.position.y, other.transform.position.z);
+
         if (other.CompareTag("Surface"))
         {
-           temp.y+=0.2f;
-           Instantiate(splatter, temp, Quaternion.Euler(0, 0, 0));
-           Instantiate(plant,temp,Quaternion.Euler(0, 0, 0));
+            temp.y+=0.2f;
+            Instantiate(splatter, temp, Quaternion.Euler(0, 0, 0));
+            Instantiate(plant,temp,Quaternion.Euler(0, 0, 0));
+            maxSpeed += 0.005f;
+            jumpForcemax += 0.01f;
+            
         }
         if (other.CompareTag("WallLeft"))
         {
             temp.x += 0.2f;
             Instantiate(splatter, temp, Quaternion.Euler(0, 0, -90));
+            maxSpeed += 0.01f;
+            jumpForcemax += 0.01f;
         }
         if (other.CompareTag("WallRight"))
         {
             temp.x -= 0.2f;
             Instantiate(splatter, temp, Quaternion.Euler(0, 0, 90));
+            maxSpeed+=0.01f;
+            jumpForcemax += 0.01f;
         }
     }
 
