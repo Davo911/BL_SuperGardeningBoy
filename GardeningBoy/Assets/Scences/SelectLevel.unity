@@ -181,7 +181,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400028, guid: f07190e2b6c3b564eb71540dbb96a7de, type: 2}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 400032, guid: f07190e2b6c3b564eb71540dbb96a7de, type: 2}
       propertyPath: m_LocalPosition.y
@@ -267,7 +267,7 @@ MonoBehaviour:
       OneStar: {fileID: 21300016, guid: 8c9c786fd2f79754db2a980d854b23ff, type: 3}
       TwoStars: {fileID: 21300020, guid: 8c9c786fd2f79754db2a980d854b23ff, type: 3}
       ThreeStars: {fileID: 21300022, guid: 8c9c786fd2f79754db2a980d854b23ff, type: 3}
-    expandLevelList: 0
+    expandLevelList: 1
     expandLevelSettings: 1
   - LevelObject: {fileID: 308927092}
     Stats: {fileID: 1541349767}
@@ -309,7 +309,7 @@ MonoBehaviour:
       OneStar: {fileID: 21300016, guid: 8c9c786fd2f79754db2a980d854b23ff, type: 3}
       TwoStars: {fileID: 21300020, guid: 8c9c786fd2f79754db2a980d854b23ff, type: 3}
       ThreeStars: {fileID: 21300022, guid: 8c9c786fd2f79754db2a980d854b23ff, type: 3}
-    expandLevelList: 1
+    expandLevelList: 0
     expandLevelSettings: 1
 --- !u!4 &783945398
 Transform:
@@ -322,7 +322,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &848674628
 Prefab:
@@ -503,7 +503,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400050, guid: a19a4e6dbebd66b40a2364f3b533e352, type: 2}
       propertyPath: m_RootOrder
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a19a4e6dbebd66b40a2364f3b533e352, type: 2}
@@ -540,13 +540,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dragSpeed: 25
-  sizeX: {x: -20, y: -16.8}
-  sizeY: {x: 32, y: 15}
+  sizeX: {x: -14, y: -16.8}
+  sizeY: {x: 27, y: 15}
   dragAxes: 0
   cameraPosition: 1
   bounds:
-    m_Center: {x: 6, y: -0.8999996, z: 0}
-    m_Extent: {x: 26, y: 15.9, z: 0}
+    m_Center: {x: 6.5, y: -0.8999996, z: 0}
+    m_Extent: {x: 20.5, y: 15.9, z: 0}
   defaultPosition: {x: 0, y: 0, z: 0}
 --- !u!81 &1400584326
 AudioListener:
